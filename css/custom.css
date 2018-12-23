@@ -792,23 +792,23 @@ iframe {
     bottom: 50px;
     font-size: 1.4em;
     text-shadow: none;
-    color: #ffcc05;
+    color: white;
 }
 
 .carousel-caption li{
 	font-size: 1.6em;
     list-style: none;
-    color: #ffcc05;
+    color: white;
 
 }
 
 .carousel-caption li a:link{
-    color: #ffcc05;
+    color: white;
 
 }
 
 .carousel-caption .fa {
-	color: #ffcc05;
+	color: white;
 }
 
 
