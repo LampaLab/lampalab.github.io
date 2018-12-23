@@ -1,6 +1,6 @@
 /* COLOR REFERENCE
 
-Aqua:		#29dcd9
+Aqua:		#ffcc05
 Dark-gray:  #3d3d3d
 White:      #FFFFFF
 
@@ -26,18 +26,18 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a:link {
-	color: #29dcd9;
+	color: #ffcc05;
 }
 
 a:visited{
-	color: #29dcd9;
+	color: #ffcc05;
     text-decoration: underline;
 
 }
 
 a:hover {
 	text-decoration: underline;
-	color: #29dcd9;
+	color: #ffcc05;
 }
 
 img {
@@ -89,7 +89,7 @@ ol {
 
 .separator-solid{
 	position: relative;
-	background-color: #29dcd9;
+	background-color: #ffcc05;
 	height: 45px;
 	padding-left: 15px;
 	padding-top: 10px;
@@ -239,7 +239,7 @@ iframe {
 
 .dropdown-menu > li > a:focus, 
 .dropdown-menu > li > a:hover {
-    color: #29dcd9;
+    color: #ffcc05;
     text-decoration: none;
     background-color: transparent;
 }
@@ -247,7 +247,7 @@ iframe {
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:focus, 
 .dropdown-menu > .active > a:hover {
-	color: #29dcd9;
+	color: #ffcc05;
     text-decoration: none;
     background-color: transparent;
 }
@@ -321,14 +321,14 @@ iframe {
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #29DCD9;
+  color: #ffcc05;
   background-color: transparent;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #29DCD9;
+  color: #ffcc05;
   background-color: transparent;
 }
 
@@ -422,7 +422,7 @@ iframe {
 
 #mc_embed_signup .button {
 	clear:both; 
-	background-color: #29dcd9; 
+	background-color: #ffcc05; 
 	border: 0 none; 
 	border-radius:4px; 
 	color: #FFFFFF; 
@@ -637,7 +637,7 @@ iframe {
 }
 
 #pages-social-icons li a:hover{
-    color: #29dcd9 !important;
+    color: #ffcc05 !important;
 }
 
 
@@ -927,7 +927,7 @@ iframe {
 }
 
 #team-item li a:hover{
-	color: #29dcd9;
+	color: #ffcc05;
 }
 
 /* ====== Calendar ============================================================ Calendar ============ */ 
@@ -942,7 +942,7 @@ iframe {
 /* ====== Blog ============================================================ Blog ============ */ 
 
 .form-control:focus {
-    border-color: #29dcd9;
+    border-color: #ffcc05;
     outline: 0px none;
     box-shadow: none;
 }
@@ -1140,7 +1140,7 @@ iframe {
 
 .pagination > li > a:hover {
 	background: transparent;
-	color: #29dcd9; 
+	color: #ffcc05; 
 }
 
 .pagination > .active > a, 
@@ -1179,7 +1179,7 @@ iframe {
 }
 
 .menu-item h3 a:hover{
-	color: #29dcd9 !important;
+	color: #ffcc05 !important;
 }
 
 /* Grid */
