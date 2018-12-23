@@ -9,7 +9,6 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="https://lampalab.github.io">Відкрита лабораторія електроніки</a>
       </div> <!-- navbar-header -->
 
       <div class="navbar-collapse collapse">
@@ -17,14 +16,14 @@
         <ul class="nav navbar-nav navbar-right">
           <li class="{% if page.url == '/index.html' %}active{% endif %}"><a href="{{site.baseurl}}/index.html">На головну</a></li>
           <li class="{% if page.url == '/about_us.html' %}active{% endif %}"><a href="{{site.baseurl}}/about_us.html">Про нас</a></li>
+	  <li class="{% if page.url == '/about_us.html' %}active{% endif %}"><a href="{{site.baseurl}}/about_us.html">Обладнання</a></li>
+	  <li class="{% if page.url == '/about_us.html' %}active{% endif %}"><a href="{{site.baseurl}}/about_us.html">Проекти</a></li>
 
           <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">What We Do <span class="caret"></span></a>
+            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Навчальні матеріали<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li class="{% if page.url == '/workshops.html' %}active{% endif %}"><a href="{{site.baseurl}}/events.html">Workshops</a></li>
               <li class="{% if page.url == '/projects.html' %}active{% endif %}"><a href="{{site.baseurl}}/projects.html">Projects</a></li>
-              <li class="{% if page.url == '/machines.html' %}active{% endif %}"><a href="{{site.baseurl}}/machines.html">Machines</a></li>
-              <li class="{% if page.url == '/open_days.html' %}active{% endif %}"><a target="_blank" href="{{site.baseurl}}/open_days.html">Visits</a></li>
             </ul>
           </li>
 
