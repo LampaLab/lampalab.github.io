@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<header>
+	
+	{% include nav.html %} 	
+	
+</header><!-- site-header -->
+
+<!-- ======== Hero ==================================================================== Hero ============-->
+
+    <section id="header-pages-blog">
+	    <div class="container" id="header-pages-blog-title">
+            
+            <a href="projects.html"> <h2 class="page-title">Projects</h2> </a>                    
+							
+	    </div> <!-- container -->								        	        	                  	      	                     	            	            		                  			   		   	  		                                                                                          
+    </section> <!-- hero -->
+
+<!-- ======== pages-social-icons ===========-->
+
+    	{% include social.html %} 
+
+<!-- =============================================================================================================-->
+    
+<div class="container" id="separator-pages-top"></div>  
+<br> 
+
+<!-- ======== Project showcase ========================================================== Project showcase  ================= --> 
+<section id="projects-menu"> 
+	<div class="container">
+			    
+		        <div id="grid" data-columns="4">		
+			                		         
+			        {% for post in site.posts limit: 500 %}
+	               		 {% if post.type == 'project' %}    	 	            	            
+		        		            
+				            <div class="menu-item">
+					            
+					            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
+			                
+			                    <h3>
+			                    	<a href="{{site.baseurl}}{{post.url}}">{{post.title}}
+			                    	</a>
+		                    	</h3>  
+				                
+				                <p>{{post.meta}}</p>
+				                
+				            </div> <!-- menu item --> 
+
+		           	            	        
+			       		 {% endif %}
+			        {% endfor %}
+		        
+	            </div> <!-- grid --> 
+	            
+	</div>  <!-- container --> 
+
+</section>	
+<!-- Pagination --------------------------------->
+
+	        <!-- <div class="row text-center">
+	            <div class="col-lg-12">
+		            		            
+	                <ul class="pagination">
+	                    <li><a href="#">&laquo;</a></li>
+	                    <li class="active"><a href="#">1</a></li>
+	                    <li><a href="#">2</a></li>
+	                    <li><a href="#">3</a></li>
+	                    <li><a href="#">4</a></li>
+	                    <li><a href="#">5</a></li>
+	                    <li><a href="#">&raquo;</a></li>
+	                </ul> <!-- pagination -->
+	                	                
+	           <!--  </div>  <!-- col -->
+	      <!--   </div> <!-- row -->
+
+    
+<!-- =============================================================================================================-->
+
+
+
+<!-- {% include footer.html %} -->
+

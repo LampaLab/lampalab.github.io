@@ -1,0 +1,29 @@
+- name: Ievgen Korotkyi
+  image: img/team/ievgen_korotkyi.jpg
+  title: Founder
+  fb: https://www.facebook.com/korotkiy.eugene
+  twitter:
+  linkedin: 
+
+- name: Yaroslav Hordienko
+  image: img/team/yaroslav_hordienko.jpg
+  title: Stuff (to be defined later)
+  fb:
+  twitter:
+  linkedin:
+
+- name: Olesya Shut
+  image: img/team/olesya_shut.jpg
+  title: Stuff (to be defined later)
+  fb:
+  twitter:
+  linkedin:
+
+- name: Serhii Fedorenko
+  image: img/team/serhii_fedorenko.jpg
+  title: Stuff (to be defined later)
+  fb:
+  twitter: 
+  linkedin:
+
+
