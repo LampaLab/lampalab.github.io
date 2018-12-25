@@ -558,8 +558,9 @@ iframe {
 /* ======= Footer ================== */
 
 #footer {
+    color: white;
 	text-align: center;
-	background: white;
+	background: rgba(0, 0, 0, 0.87);
 	padding: 30px 0 30px 0;
 	
 }
