@@ -1,6 +1,6 @@
 /* COLOR REFERENCE
 
-Aqua:		#ffcc05
+Aqua:		#29dcd9
 Dark-gray:  #3d3d3d
 White:      #FFFFFF
 
@@ -26,11 +26,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a:link {
-	color: #ffcc05;
+	color: #29dcd9;
 }
 
 a:visited{
-	color: #ffcc05;
+	color: #29dcd9;
     text-decoration: underline;
 
 }
