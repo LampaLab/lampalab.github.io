@@ -1,0 +1,89 @@
+---
+layout: default
+---
+
+<header>
+
+	{% include nav.html %}
+
+</header>
+
+<section id="header-pages-blog">
+  <div class="container" id="header-pages-blog-title">
+    <h2 class="page-title">Про лабораторію</h2>
+  </div> <!-- container -->
+</section> <!-- hero -->
+
+
+{% include social.html %}
+
+
+<div class="container" id="separator-pages-top"></div>
+
+<!-- ==== About Lampa Lab ==== -->
+
+<section id="lampa-about">
+
+<div class="container" id="separator-blog"></div>
+
+<div class="container">
+  <br>
+  <h3> Відкрита лабораторія електроніки Лампа </h3>
+  <br><br>
+  <div class="row">
+
+    <div class="col-md-4 col-sm-4">
+      <p>Лабораторія Лампа розташована в <a target="_blank" href="http://iaac.net/"><strong>Київському Політехнічному Інституті імені Ігоря Сікорського</strong></a> бла бла бла</p><br>
+    </div> <!-- col -->
+    <div class="col-md-4 col-sm-4">
+      <p>Другий стовбчик</p><br>
+    </div> <!-- col -->
+
+    <div class="col-md-4 col-sm-4">
+      <img class="img-responsive" src="{{site.baseurl}}/img/about_us/about_us_main.jpg" height="330px">
+    </div> <!-- col -->
+  </div> <!-- row -->
+</div> <!-- container -->
+</section> <!-- section -->
+
+<div class="container" id="separator"></div>
+
+<section id="team">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-12">
+        <h3>Команда Лампи</h3>
+      </div>
+      <!-- If you need to add or remove an employee, it is done in this repos _data/employees.yml file! -->
+      <div class="text-center all-employees">
+        {% for item in site.data.employees %}
+        <div class="col-sm-6 col-md-4 col-lg-3 team-item">
+          <img style="max-width:150px;" class="img-circle" src="{{ item.image }}" alt="">
+          <h4> {{ item.name }} </h4>
+          <p>{{item.title}}</p>
+
+          <div class="team-social">
+            {% if item.fb %}
+            <a style="color:black; padding:7px;" target="_blank" href="{{item.fb}}"><i class="fa fa-facebook-square fa-lg"></i></a>
+            {% endif %}
+            {% if item.twitter %}
+            <a style="color:black; padding:7px;" target="_blank" href="{{item.twitter}}"><i class="fa fa-twitter fa fa-lg"></i></a>
+            {% endif %}
+            {% if item.linkedin %}
+            <a style="color:black; padding:7px;" target="_blank" href="{{item.linkedin}}"><i class="fa fa-linkedin-square fa-lg"></i></a>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+    </div> <!-- row -->
+  </div> <!-- container -->
+</section> <!-- team -->
+
+
+<div class="container" id="separator"></div>
+
+
+{% include footer.html %}
