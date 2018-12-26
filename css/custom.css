@@ -909,6 +909,12 @@ iframe {
 	align-content: center;
 }
 
+/* ====== Equipment ============================================================ Equipment ============ */ 
+
+#equipment-frame {
+	display: block;
+	align-content: center;
+}
 
 
 /* ====== Blog ============================================================ Blog ============ */ 
