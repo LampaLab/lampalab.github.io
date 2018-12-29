@@ -8,3 +8,4 @@ exclude: ['README.md']
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+title: Open Hardware Laboratory Lampa
