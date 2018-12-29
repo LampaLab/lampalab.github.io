@@ -7,3 +7,4 @@ redcarpet:
 exclude: ['README.md']
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
