@@ -8,4 +8,5 @@ exclude: ['README.md']
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jemoji
 title: Відкрита лабораторія електроніки Лампа
