@@ -6,10 +6,9 @@ layout: default
   {% include nav.html %}
 </header>
 
-
 <section id="header-pages-blog">
   <div class="container" id="header-pages-blog-title">
-    <h2 class="page-title">News</h2>
+    <h2 class="page-title">Блог</h2>
   </div>
 </section>
 
@@ -47,25 +46,8 @@ layout: default
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       </div>  <!-- col -->
 
-      <div class="col-md-4">
         <div class="well">
-
-          <h4>Search</h4>
-
-          <div class="input-group">
-            <input type="text" class="form-control">
-            <span class="input-group-btn">
-              <button class="btn btn-default" type="button">
-                <span class="glyphicon glyphicon-search"></span>
-              </button>
-            </span>
-            </input>
-          </div><!-- input-group -->
-
-        </div> <!-- well -->
-
-        <div class="well">
-          <h4>Categories</h4>
+          <h4>Теги:</h4>
           <div class="row">
             {% for c in site.categories %}
             <div class="col-lg-6">
@@ -82,7 +64,7 @@ layout: default
         <!-- Blog Social Well -->
 
         <div class="well">
-          <h4>Share this post:</h4>
+          <h4>Поділитися:</h4>
           <br>
           <span class='st_facebook_large' displayText='Facebook'></span>
           <span class='st_twitter_large' displayText='Tweet'></span>
