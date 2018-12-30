@@ -1,15 +1,28 @@
-module Jekyll
-  class Youtube < Liquid::Tag
+class YouTube < Liquid::Tag
+  Syntax = /^\s*([^\s]+)(\s+(\d+)\s+(\d+)\s*)?/
 
-    def initialize(name, id, tokens)
-      super
-      @id = id
-    end
+  def initialize(tagName, markup, tokens)
+    super
 
-    def render(context)
-      %(<div class="embed-video-container"><iframe src="//www.youtube.com/embed/#{@id.strip}" allowfullscreen></iframe></div>)
+    if markup =~ Syntax then
+      @id = $1
+
+      if $2.nil? then
+          @width = 560
+          @height = 420
+      else
+          @width = $2.to_i
+          @height = $3.to_i
+      end
+    else
+      raise "No YouTube ID provided in the \"youtube\" tag"
     end
   end
-end
 
-Liquid::Template.register_tag('youtube', Jekyll::Youtube)
+  def render(context)
+    # "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}\" frameborder=\"0\"allowfullscreen></iframe>"
+    "<iframe width=\"#{@width}\" height=\"#{@height}\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\"></iframe>"
+  end
+
+  Liquid::Template.register_tag "youtube", self
+end
