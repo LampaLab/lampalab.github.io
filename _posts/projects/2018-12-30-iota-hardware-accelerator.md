@@ -9,4 +9,4 @@ date: 2018-12-30
 category: [fpga, verilog, verification]
 ---
 
-<iframe src="https://www.youtube.com/watch?v=JJRlwTJHBCg" title="Опис принципу роботи розробленого апаратного акселератора криптовалюти IOTA" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0" height="483" width="725"></iframe>
+{% youtube JJRlwTJHBCg %}
