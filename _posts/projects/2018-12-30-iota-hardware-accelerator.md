@@ -9,4 +9,7 @@ date: 2018-12-30
 category: [fpga, verilog, verification]
 ---
 
-{% youtube JJRlwTJHBCg %}
+
+{% youtube  %}
+
+<iframe src="https://www.youtube.com/embed/JJRlwTJHBCg" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
