@@ -12,7 +12,7 @@ layout: default
 <section id="header-pages-blog">
   <div class="container" id="header-pages-blog-title">
 
-    <a href="blog.html"> <h2 class="page-title">Blog</h2>  </a>
+    <h2 class="page-title">Блог</h2>
 
   </div>
 </section> <!-- hero -->
@@ -31,19 +31,19 @@ layout: default
       <!-- Blog Entries Column -->
 
       <div class="col-md-8">
-        {% for post in site.posts limit: 10 %}
+        {% for post in site.posts %}
         {% if post.type == 'blog' %}
         <!-- Blog Post -->
 
         <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
 
-        <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{post.date | date:"%B %d, %Y" }}</u></p>
+        <p class="lead">Автор&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Опубліковано <u>{{post.date | date:"%B %d, %Y" }}</u></p>
         <br>
         <img class="img-responsive" src="{{site.baseurl}}/img/blog/{{post.teaserlist}}" alt="">
         <br>
         <p>{{post.meta}}</p>
         <br>
-        <a href="{{ post.url }}" ><strong>read more</strong> &rarr;</a>
+        <a href="{{ post.url }}" ><strong>читати більше</strong> &rarr;</a>
         <br><br>
         <hr>
         <br>
@@ -58,29 +58,11 @@ layout: default
 
       <div class="col-md-4">
 
-        <!-- Blog Search Well -->
+        <!-- Blog Categories Well -->
         <br>
         <div class="well">
 
-          <h4>Search</h4>
-
-          <div class="input-group">
-            <input type="text" class="form-control">
-            <span class="input-group-btn">
-              <button class="btn btn-default" type="button">
-                <span class="glyphicon glyphicon-search"></span>
-              </button>
-            </span>
-            </input>
-          </div><!-- input-group -->
-
-        </div> <!-- well -->
-
-        <!-- Blog Categories Well -->
-
-        <div class="well">
-
-          <h4>Categories</h4>
+          <h4>Теги</h4>
           <div class="row">
             {% for c in site.categories %}
             <div class="col-lg-6">
@@ -96,7 +78,7 @@ layout: default
 
         <!-- Blog Social Well -->
         <div class="well">
-          <h4>Share this post:</h4>
+          <h4>Поділитися</h4>
           <br>
           <span class='st_facebook_large' displayText='Facebook'></span>
           <span class='st_twitter_large' displayText='Tweet'></span>
