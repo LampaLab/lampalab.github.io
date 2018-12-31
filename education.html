@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<header>
+  {% include nav.html %}
+</header>
+
+<section id="header-pages-blog">
+  <div class="container" id="header-pages-blog-title">
+
+    <h2 class="page-title">Навчальні матеріали</h2>
+
+  </div>
+</section> <!-- hero -->
+
+{% include social.html %}
+
+<div class="container" id="separator-pages-top"></div>
+
+<section id="education">
+  <div class="container">
+
+    {% include_relative education.md %}
+
+  </div>
+</section>
+
+<div class="container" id="separator"></div>
+
+{% include footer.html %}
+
