@@ -11,7 +11,7 @@ White:      #FFFFFF
 body {
 	padding-top: 50px;
 	font-family: 'proxima-nova', 'Raleway', Helvetica, sans-serif;
-	font-size: 15px;
+	font-size: 15.5px;
 	color: #3d3d3d;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
@@ -947,8 +947,8 @@ iframe {
 
 
 #blog-post img {
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 } 
 
 #comment-input {
@@ -959,43 +959,6 @@ iframe {
 #comment-input btn{
 	padding-left: -20px;
 }
-
-
-
-
-
-/* ====== Fab Pro ==================================================== Fab Pro ============ */
-
-#fab-pro {
-	padding: 0 0 30px 0;
-	font-size: medium;
-}
-
-#fabpro-description {
-	padding-bottom: 15px;
-}
-
-#fabpro-description-2 {
-	border-left: solid 1px #dedede;
-	padding-left: 50px;
-}
-
-#fabpro-hr {
-	display: none;
-}
-
-#fabpro-our-clients {
-	padding-top: 10px;
-}
-
-#fabpro-our-clients h3 {
-	text-align: center;
-}
-
-#fabpro-our-clients img {
-	width: 100px;
-}
-
 
 @media (min-width: 668px) and (max-width: 991px) {
 	
@@ -1128,8 +1091,8 @@ iframe {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-   	margin-bottom: 30px;
-	margin-top: 30px;
+   	margin-bottom: 20px;
+	margin-top: 20px;
 }
 
 #project-body  p {
@@ -1137,8 +1100,8 @@ iframe {
 }
 
 #project-body  iframe {
-	margin-bottom: 30px;
-	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 
 #project-body  h1, #project-body  h2, #project-body  h3 {
@@ -1165,8 +1128,6 @@ iframe {
     }
 
 } 
-
-
 
 @media (min-width: 240px) and (max-width: 667px) {
 
