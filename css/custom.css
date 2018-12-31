@@ -26,13 +26,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a:link {
-	color: #29dcd9;
+	color: #0000ee;
 }
 
 a:visited{
-	color: #29dcd9;
+	color: #551A8B;
     text-decoration: underline;
-
 }
 
 a:hover {
