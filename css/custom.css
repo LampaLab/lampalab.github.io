@@ -27,12 +27,10 @@ h1,h2,h3,h4,h5,h6 {
 
 a:link {
 	color: #4A90BD;
-    text-decoration: underline;
 }
 
 a:visited{
-	color: #551A8B;
-    text-decoration: underline;
+	color: #4A90BD;
 }
 
 a:hover {
