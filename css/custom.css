@@ -375,7 +375,7 @@ iframe {
     }
 
 	#collaborations-text h2{
-		font-size: 1.8em;	
+		font-size: 1.7em;	
 	}
 
 }
@@ -572,13 +572,13 @@ iframe {
 }
 
 #contact-col-txt-1 {
-	font-size: 1.2em;
+	font-size: 1.0em;
     padding-top: 10px;
 
 }
 
 #contact-col-txt-2 {
-	font-size: 1.2em;
+	font-size: 1.0em;
     padding-top: 0px;
 
 }
@@ -628,7 +628,7 @@ iframe {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	list-style: none;
 }
 
@@ -791,13 +791,13 @@ iframe {
     padding: 0px;
     font-weight: 500;
     bottom: 50px;
-    font-size: 1.6em;
+    font-size: 1.5em;
     text-shadow: none;
     color: white;
 }
 
 .carousel-caption li{
-	font-size: 1.6em;
+	font-size: 1.5em;
     list-style: none;
     color: white;
 
@@ -848,7 +848,7 @@ iframe {
 @media (min-width: 240px) and (max-width: 660px) { 
 
 .carousel-caption li a {
-	font-size: 0.7em;
+	font-size: 0.6em;
 	list-style: none;
 }
 
@@ -1366,7 +1366,7 @@ iframe {
 }
 
 #collaborations-text h2{
-	font-size: 1.8em;	
+	font-size: 1.7em;	
 }
 
 /* === Suscribe newsletter === */
