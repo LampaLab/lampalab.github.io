@@ -26,7 +26,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a:link {
-	color: #0000ee;
+	color: #4A90BD;
+    text-decoration: underline;
 }
 
 a:visited{
