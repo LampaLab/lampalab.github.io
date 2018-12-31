@@ -30,9 +30,7 @@ layout: education
 
 **[]()**
 
-7) Arduino — всього лише ази електроніки. Щоб стати професіоналом вам знадобляться хороші знання аналогової схемотехніки. В їх отриманні вам допоможе кращий в світі онлайн курс від MIT — Circuits and Electronics:
-
-**[Частина 1](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0)**, **[частина 2](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0)**, **[частина 3](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0)**.
+7) Arduino — всього лише ази електроніки. Щоб стати професіоналом вам знадобляться хороші знання аналогової схемотехніки. В їх отриманні вам допоможе кращий в світі онлайн курс від MIT — Circuits and Electronics: **[Частина 1](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0)**, **[частина 2](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0)**, **[частина 3](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0)**.
 
 8) Для тих, хто не дуже добре знає англійську, є **[хороший онлайн курс з електроніки](https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk)** українською мовою.
 
