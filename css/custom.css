@@ -948,7 +948,7 @@ iframe {
 
 #blog-post img {
 	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 30px;
 } 
 
 #comment-input {
@@ -1091,7 +1091,7 @@ iframe {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-   	margin-bottom: 20px;
+   	margin-bottom: 30px;
 	margin-top: 20px;
 }
 
@@ -1100,7 +1100,7 @@ iframe {
 }
 
 #project-body  iframe {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	margin-top: 20px;
 }
 
