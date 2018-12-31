@@ -11,7 +11,7 @@ White:      #FFFFFF
 body {
 	padding-top: 50px;
 	font-family: 'proxima-nova', 'Raleway', Helvetica, sans-serif;
-	font-size: 15.5px;
+	font-size: 16px;
 	color: #3d3d3d;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
@@ -186,7 +186,7 @@ iframe {
 /* ==== Navigation =============================================================  Navigation =============== */ 
 
 .navbar{
-	font-size: 16.5px;
+	font-size: 16px;
 	border-radius: 0;
 
 }
