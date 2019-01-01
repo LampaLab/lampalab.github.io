@@ -1,5 +1,6 @@
 ---
 layout: education
+image: /img/education.jpg
 ---
 
 ## Матеріали для вивчення електроніки
