@@ -4,7 +4,7 @@ layout: education
 
 ## 3D друк в Лампі
 
-![](/img/blog/first/3dprint.jpg)
+![](/img/blog/first/3dprint.png)
 
 В лабораторії Лампа доступні для користувачів такі 3D-принтери:
 
