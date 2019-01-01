@@ -1071,7 +1071,10 @@ iframe {
 
 #projects-menu {
 	padding-bottom: 30px;
+}
 
+#projects-menu a:link {
+	color: #4A90BD;
 }
 
 #project-body .claim {
@@ -1103,7 +1106,7 @@ iframe {
 }
 
 #project-body  h1, #project-body  h2, #project-body  h3 {
-	color: #4A90BD !important;
+	color: #3d3d3d !important;
 	background: none !important;
 
 }
