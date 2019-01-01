@@ -14,147 +14,147 @@ layout: education
 
 Для тих, хто має намір почати вивчати електроніку кращим вибором буде Arduino, через простоту використання і велику кількість практичних прикладів.
 
-1) **[Курс на Амперці](https://www.youtube.com/playlist?list=PLfDmj22jP9S759DT250VVzfZs_4VnJqLa)** з нуля навчить вас користуватися платформою Arduino, підключати і використовувати кнопки, світлодіоди, сенсори, мотори, бездротовий зв'язок. Ці відео є перекладом на російську мову всесвітньо відомих лекцій Джеремі Блюма. Для перевірки перших схем рекомендуємо безкоштовні симулятори (**[симулятор1](https://www.tinkercad.com/circuits)**, **[симулятор2](https://www.circuito.io)**). Коли пристрої почнуть правильно працювати в симуляторі, можна переходити на реальні схеми.
+1) **[Курс на Амперці](https://www.youtube.com/playlist?list=PLfDmj22jP9S759DT250VVzfZs_4VnJqLa){:target="_blank"}** з нуля навчить вас користуватися платформою Arduino, підключати і використовувати кнопки, світлодіоди, сенсори, мотори, бездротовий зв'язок. Ці відео є перекладом на російську мову всесвітньо відомих лекцій Джеремі Блюма. Для перевірки перших схем рекомендуємо безкоштовні симулятори (**[симулятор1](https://www.tinkercad.com/circuits){:target="_blank"}**, **[симулятор2](https://www.circuito.io){:target="_blank"}**). Коли пристрої почнуть правильно працювати в симуляторі, можна переходити на реальні схеми.
 
-2) Ще один дуже хороший варіант для вивчення Arduino і електроніки з нуля — це **[курс від МФТІ на Coursera](https://www.coursera.org/learn/roboty-arduino)**, де пояснюється, як працювати з Arduino і будувати на її основі роботів з керуванням через Інтернет, робити різну автоматизацію та користуватися 3D принтером.
+2) Ще один дуже хороший варіант для вивчення Arduino і електроніки з нуля — це **[курс від МФТІ на Coursera](https://www.coursera.org/learn/roboty-arduino){:target="_blank"}**, де пояснюється, як працювати з Arduino і будувати на її основі роботів з керуванням через Інтернет, робити різну автоматизацію та користуватися 3D принтером.
 
-3) Ще кілька гарних курсів по Arduino англійською: **[Раз](https://www.youtube.com/playlist?list=PLGs0VKk2DiYylFUUMMv9WiL3x3tpscDUQ)**, **[Два](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)**.
+3) Ще кілька гарних курсів по Arduino англійською: **[Раз](https://www.youtube.com/playlist?list=PLGs0VKk2DiYylFUUMMv9WiL3x3tpscDUQ){:target="_blank"}**, **[Два](https://www.youtube.com/playlist?list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-){:target="_blank"}**.
 
-4) **[Лінк на сторінку](http://zelectro.cc/arduino_modules_sensors)** з описом підключення 100500 сенсорів і актуаторів до Arduino, з прикладами коду.
+4) **[Лінк на сторінку](http://zelectro.cc/arduino_modules_sensors){:target="_blank"}** з описом підключення 100500 сенсорів і актуаторів до Arduino, з прикладами коду.
 
-5) **[Інформація про те](https://www.labviewmakerhub.com/doku.php?id=libraries:linx:start)**, як керувати недорогими платами на зразок Arduino і Raspberry Pi із Labview, використовуючи весь функціонал цієї програми для створення складних автоматизованих вимірювально-керуючих комплексів. Така можливість з'явилася завдяки фреймворку **[Linx](https://www.youtube.com/watch?v=2tm2VKjkNKc)**.
+5) **[Інформація про те](https://www.labviewmakerhub.com/doku.php?id=libraries:linx:start){:target="_blank"}**, як керувати недорогими платами на зразок Arduino і Raspberry Pi із Labview, використовуючи весь функціонал цієї програми для створення складних автоматизованих вимірювально-керуючих комплексів. Така можливість з'явилася завдяки фреймворку **[Linx](https://www.youtube.com/watch?v=2tm2VKjkNKc){:target="_blank"}**.
 
-6) **[Гарна оглядова стаття](https://habr.com/post/420435/)** для швидкого початку роботу з хмарним середовищем розробки і бібліотекою MBED для плат STM32 Nucleo. Платформа MBED така ж проста у вивченні, як і Arduino, але орієнтована на більш потужні STM32 мікроконтролери.
+6) **[Гарна оглядова стаття](https://habr.com/post/420435/){:target="_blank"}** для швидкого початку роботу з хмарним середовищем розробки і бібліотекою MBED для плат STM32 Nucleo. Платформа MBED така ж проста у вивченні, як і Arduino, але орієнтована на більш потужні STM32 мікроконтролери.
 
 ### Аналогова схемотехніка 
 
-7) Arduino — всього лише ази електроніки. Щоб стати професіоналом вам знадобляться хороші знання аналогової схемотехніки. В їх отриманні вам допоможе кращий в світі онлайн курс від MIT — Circuits and Electronics: **[Частина 1](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0)**, **[частина 2](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0)**, **[частина 3](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0)**.
+7) Arduino — всього лише ази електроніки. Щоб стати професіоналом вам знадобляться хороші знання аналогової схемотехніки. В їх отриманні вам допоможе кращий в світі онлайн курс від MIT — Circuits and Electronics: **[Частина 1](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0){:target="_blank"}**, **[частина 2](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0){:target="_blank"}**, **[частина 3](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0){:target="_blank"}**.
 
-8) Для тих, хто не дуже добре знає англійську, є **[хороший онлайн курс з електроніки](https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk)** українською мовою.
+8) Для тих, хто не дуже добре знає англійську, є **[хороший онлайн курс з електроніки](https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk){:target="_blank"}** українською мовою.
 
-9) Як підручник з аналогової схемотехніки рекомендуємо Тітце, Шенк "Напівпровідникова схемотехніка": **[Том 1](https://drive.google.com/file/d/1_RFn7Y2BbboIO9GnagldVlhe69bgYYVn/view)**, **[Том 2](https://drive.google.com/file/d/0B9fI2BqoGDwTUjU2aE5sQkFhd2M/view)**.
+9) Як підручник з аналогової схемотехніки рекомендуємо Тітце, Шенк "Напівпровідникова схемотехніка": **[Том 1](https://drive.google.com/file/d/1_RFn7Y2BbboIO9GnagldVlhe69bgYYVn/view){:target="_blank"}**, **[Том 2](https://drive.google.com/file/d/0B9fI2BqoGDwTUjU2aE5sQkFhd2M/view){:target="_blank"}**.
 
-10) І нарешті, ось ще один **[гарний ресурс](https://www.youtube.com/user/Zefar91)** з аналогової схемотехніки.
+10) І нарешті, ось ще один **[гарний ресурс](https://www.youtube.com/user/Zefar91){:target="_blank"}** з аналогової схемотехніки.
 
-11) А ось **[круті відео лекції](https://www.youtube.com/playlist?list=PLKT-Mf5xK5brEZe4V2R9bPq5PRpK9kPvw)** російською, зняті за матеріалами Хоровіца і Хілла — біблії аналогової електроніки. На каналі цього викладача також є відмінні відео з електрики, магнетизму і оптики.
+11) А ось **[круті відео лекції](https://www.youtube.com/playlist?list=PLKT-Mf5xK5brEZe4V2R9bPq5PRpK9kPvw){:target="_blank"}** російською, зняті за матеріалами Хоровіца і Хілла — біблії аналогової електроніки. На каналі цього викладача також є відмінні відео з електрики, магнетизму і оптики.
 
-12) **[Дуже гарний канал](https://www.youtube.com/playlist?list=PLBLtydguylgB-9FPU63TY_vtsj0xYt5li)** для вивчення електроніки з нуля. Розглянуто основи електроніки (струм, напруга, резистори, конденсатори, індуктивності), транзистори, тиристори, трансформатори, підсилювачі, джерела живлення, генератори, операційні підсилювачі, компаратори, передавачі і ще багато всяких цікавинок! Крім теорії автори симулюють описувані схеми, збирають реальні пристрої і демонструють їх роботу. Все максимально доступно і наочно. Ідеальний підручник для початківців — простий опис і максимум практики.
+12) **[Дуже гарний канал](https://www.youtube.com/playlist?list=PLBLtydguylgB-9FPU63TY_vtsj0xYt5li){:target="_blank"}** для вивчення електроніки з нуля. Розглянуто основи електроніки (струм, напруга, резистори, конденсатори, індуктивності), транзистори, тиристори, трансформатори, підсилювачі, джерела живлення, генератори, операційні підсилювачі, компаратори, передавачі і ще багато всяких цікавинок! Крім теорії автори симулюють описувані схеми, збирають реальні пристрої і демонструють їх роботу. Все максимально доступно і наочно. Ідеальний підручник для початківців — простий опис і максимум практики.
 
-13) Якісні лекції і туторіали з аналогової схемотехніки від Analog Devices: **[Лекції](https://wiki.analog.com/university/courses/electronics/text/electronics-toc)**, **[туторіали](https://wiki.analog.com/university/courses/tutorials/index)**.
+13) Якісні лекції і туторіали з аналогової схемотехніки від Analog Devices: **[Лекції](https://wiki.analog.com/university/courses/electronics/text/electronics-toc){:target="_blank"}**, **[туторіали](https://wiki.analog.com/university/courses/tutorials/index){:target="_blank"}**.
 
-14) **[Круті лабораторні роботи](https://wiki.analog.com/university/courses/electronics/labs)** з аналогової електроніки від Analog Devices. Дуже рекомендуємо. Нічого кращого поки не зустрічали. У лабах розглянуті безліч цікавих схем: підсилювачі, джерела струму і напруги, генератори, аналогові ключі, ФАПЧ, DC-DC перетворювачі і багато чого ще. Чітко прописані завдання та контрольні запитання. Схеми прості, наочні і робочі. По кожній схемі є готова модель для дослідження у відкритій версії комерційного SPICE симулятора SIMetrix. Лабораторні роботи заточені під вимірювальні комплекси Analog Discovery 2 (які є у нас в лабі), але можуть бути виконані на будь-якому іншому обладнанні. Для тих, хто бажає вивчати аналогову електроніку — матеріал першочергової важливості. Також матеріал можна брати за основу університетських лаб зі схемотехніки.
+14) **[Круті лабораторні роботи](https://wiki.analog.com/university/courses/electronics/labs){:target="_blank"}** з аналогової електроніки від Analog Devices. Дуже рекомендуємо. Нічого кращого поки не зустрічали. У лабах розглянуті безліч цікавих схем: підсилювачі, джерела струму і напруги, генератори, аналогові ключі, ФАПЧ, DC-DC перетворювачі і багато чого ще. Чітко прописані завдання та контрольні запитання. Схеми прості, наочні і робочі. По кожній схемі є готова модель для дослідження у відкритій версії комерційного SPICE симулятора SIMetrix. Лабораторні роботи заточені під вимірювальні комплекси Analog Discovery 2 (які є у нас в лабі), але можуть бути виконані на будь-якому іншому обладнанні. Для тих, хто бажає вивчати аналогову електроніку — матеріал першочергової важливості. Також матеріал можна брати за основу університетських лаб зі схемотехніки.
 
-15) **[Відео лабораторних робіт](https://www.youtube.com/playlist?list=PL4WQQHlheqfxdmMMpE_p_tidzfa0Mgf0U)** з аналогової схемотехніки на крутих платах ASLK-PRO, які є у нас в лабі.
+15) **[Відео лабораторних робіт](https://www.youtube.com/playlist?list=PL4WQQHlheqfxdmMMpE_p_tidzfa0Mgf0U){:target="_blank"}** з аналогової схемотехніки на крутих платах ASLK-PRO, які є у нас в лабі.
 
-16) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1914444195481126)** зі створення аналого-цифрових схем на базі мікросхем програмованої логіки від Silego.
+16) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1914444195481126){:target="_blank"}** зі створення аналого-цифрових схем на базі мікросхем програмованої логіки від Silego.
 
-17) Ютуб канал з докладними уроками по створенню і моделювання аналогових мікросхем в Cadence Virtuoso. У цій програмі проектують аналогову частину багатьох сучасних чіпів (підсилювачі і перетворювачі сигналів, компоненти сенсорів, силові ланцюги, і т.д.). **[Плейліст](https://www.youtube.com/playlist?list=PLK2eyR1C9gjr7j-YoL_-JwJmjU6lNZGTO)** з основами роботи в Virtuoso. **[Плейлісти](https://www.youtube.com/channel/UCEXcqylc45jam5xa6vvEG7A/playlists)** з більш серйозними темами (проектування диференційних і операційних підсилювачів, bandgap джерела опорної напруги і т.д.). Ліцензія на Cadence Virtuoso коштує величезних грошей, але для використання в освітніх цілях студенти часто **[скачують програму з рутракера](https://rutracker.org/forum/viewtopic.php?t=4560766)**.
+17) Ютуб канал з докладними уроками по створенню і моделювання аналогових мікросхем в Cadence Virtuoso. У цій програмі проектують аналогову частину багатьох сучасних чіпів (підсилювачі і перетворювачі сигналів, компоненти сенсорів, силові ланцюги, і т.д.). **[Плейліст](https://www.youtube.com/playlist?list=PLK2eyR1C9gjr7j-YoL_-JwJmjU6lNZGTO){:target="_blank"}** з основами роботи в Virtuoso. **[Плейлісти](https://www.youtube.com/channel/UCEXcqylc45jam5xa6vvEG7A/playlists){:target="_blank"}** з більш серйозними темами (проектування диференційних і операційних підсилювачів, bandgap джерела опорної напруги і т.д.). Ліцензія на Cadence Virtuoso коштує величезних грошей, але для використання в освітніх цілях студенти часто **[скачують програму з рутракера](https://rutracker.org/forum/viewtopic.php?t=4560766){:target="_blank"}**.
 
-18) **[Крутий курс](https://www.youtube.com/playlist?list=PLZuGFJzpFksCYXw6-fwK7PDaX1W836X7L)** з GNU Electric, що є однією з небагатьох відкритих програм для розробки чіпів.
+18) **[Крутий курс](https://www.youtube.com/playlist?list=PLZuGFJzpFksCYXw6-fwK7PDaX1W836X7L){:target="_blank"}** з GNU Electric, що є однією з небагатьох відкритих програм для розробки чіпів.
 
-19) **[Два навчальних відео](https://www.youtube.com/watch?v=wNHsKDn6Y3A&list=PLgUwXvgNkHQLO3A8j1NC338lka7UzdWBM)** про те, як користуватися нескладним симулятором аналогових схем LTSpice. А ось **[великий англомовний плейліст](https://www.youtube.com/watch?v=JWm8z5fyhP8&list=PL4vooS_8RnzE4EoE27QssuxsccFmspbRP)** на ютубі на цю ж тему.
+19) **[Два навчальних відео](https://www.youtube.com/watch?v=wNHsKDn6Y3A&list=PLgUwXvgNkHQLO3A8j1NC338lka7UzdWBM){:target="_blank"}** про те, як користуватися нескладним симулятором аналогових схем LTSpice. А ось **[великий англомовний плейліст](https://www.youtube.com/watch?v=JWm8z5fyhP8&list=PL4vooS_8RnzE4EoE27QssuxsccFmspbRP){:target="_blank"}** на ютубі на цю ж тему.
 
 ### Цифрова схемотехніка
 
-20) Щоб розуміти як працює процесор, необхідно вивчити основи цифрової схемотехніки. Для цього радимо пройти **[україномовний курс](https://www.youtube.com/playlist?list=PL4WQQHlheqfzl71QHEBzrB_dRLF1fI7wz)**.
+20) Щоб розуміти як працює процесор, необхідно вивчити основи цифрової схемотехніки. Для цього радимо пройти **[україномовний курс](https://www.youtube.com/playlist?list=PL4WQQHlheqfzl71QHEBzrB_dRLF1fI7wz){:target="_blank"}**.
 
-21) А **[тут](https://github.com/KorotkiyEugene/digital_lab)** лабораторні роботи з основ цифрової схемотехніки і мови Verilog до курсу з попереднього пункту.
+21) А **[тут](https://github.com/KorotkiyEugene/digital_lab){:target="_blank"}** лабораторні роботи з основ цифрової схемотехніки і мови Verilog до курсу з попереднього пункту.
 
-22) Для вивчення цифрової схемотехніки дуже рекомендуємо **[переклад бестселера "Digital Design and Computer Architecture"](http://silicon-russia.com/public_materials/2016_11_04_one_day_mipsfpga_connected_mcu_materials_public_for_the_website/03_present_the_book_ddca_by_harris_and_harris/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf)**. У книзі доступно описана цифрова схемотехніка та основи Verilog, а також архітектура RISC процесорів на прикладі MIPS і різні варіанти реалізації цієї архітектури, у т.ч. конвеєрна. В кінці описана кеш пам'ять, доступ до периферії і менеджер віртуальної пам'яті. Ця книга — однозначний мастрід.
+22) Для вивчення цифрової схемотехніки дуже рекомендуємо **[переклад бестселера "Digital Design and Computer Architecture"](http://silicon-russia.com/public_materials/2016_11_04_one_day_mipsfpga_connected_mcu_materials_public_for_the_website/03_present_the_book_ddca_by_harris_and_harris/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf){:target="_blank"}**. У книзі доступно описана цифрова схемотехніка та основи Verilog, а також архітектура RISC процесорів на прикладі MIPS і різні варіанти реалізації цієї архітектури, у т.ч. конвеєрна. В кінці описана кеш пам'ять, доступ до периферії і менеджер віртуальної пам'яті. Ця книга — однозначний мастрід.
 
-23) **[Слайди](https://habr.com/post/308976/)** університетського курсу цифрової схемотехніки за матеріалами книги з попереднього пункту. По суті, компактний переказ вмісту книги.
+23) **[Слайди](https://habr.com/post/308976/){:target="_blank"}** університетського курсу цифрової схемотехніки за матеріалами книги з попереднього пункту. По суті, компактний переказ вмісту книги.
 
-24) **[Відмінна стаття](https://habr.com/post/235037/)** з основ конвеєризації в обчислювальних системах.
+24) **[Відмінна стаття](https://habr.com/post/235037/){:target="_blank"}** з основ конвеєризації в обчислювальних системах.
 
-25) Дуже хороший проект для розуміння принципів роботи обчислювальних систем. Це простий комп'ютер з 17-ти мікросхем з саморобним процесором. Інформацію можна вводити через 4 кнопки, виводити на LCD екран і динамік. Є схема, рекомендації по складанню, асемблер, симулятор, приклади програм. **[Стаття на Хабрі](https://habr.com/post/200930/)**, **[Сайт автора](http://www.bigmessowires.com/nibbler/)**.
+25) Дуже хороший проект для розуміння принципів роботи обчислювальних систем. Це простий комп'ютер з 17-ти мікросхем з саморобним процесором. Інформацію можна вводити через 4 кнопки, виводити на LCD екран і динамік. Є схема, рекомендації по складанню, асемблер, симулятор, приклади програм. **[Стаття на Хабрі](https://habr.com/post/200930/){:target="_blank"}**, **[Сайт автора](http://www.bigmessowires.com/nibbler/){:target="_blank"}**.
 
 ### Мікроконтролери і операційні системи реального часу (RTOS)
 
 Знання схемотехніки це, звичайно, добре, але часто потрібно вміти працювати з уже готовими процесорами і контроллерами.
 
-26) Дуже популярним сімейством мікроконтролерів є AVR. Багато плат Arduino побудовані саме на базі AVR. **[Ось хороший курс](https://www.youtube.com/watch?v=m-yY-GFp3VE&list=PLBLtydguylgDUtd9qRAt82u-pUa9x6O8Y)** по AVR мікроконтролерам.
+26) Дуже популярним сімейством мікроконтролерів є AVR. Багато плат Arduino побудовані саме на базі AVR. **[Ось хороший курс](https://www.youtube.com/watch?v=m-yY-GFp3VE&list=PLBLtydguylgDUtd9qRAt82u-pUa9x6O8Y){:target="_blank"}** по AVR мікроконтролерам.
 
-27) Відмінні курси по мега популярним і затребуваним на ринку мікроконтролерам STM32: **[Раз](https://www.youtube.com/playlist?list=PL8OgDYWys_b6XtOjCejd37aVv0ic24jqV)**, **[Два](https://www.youtube.com/playlist?list=PL8OgDYWys_b6s8BhISvA-yY1NXlYFgnn2)**, **[Три](https://www.youtube.com/watch?v=HwomcPSQsRE&list=PLJTlt64jBcCuRgAMGImQzxRlYdSKa5Ifk)**.
+27) Відмінні курси по мега популярним і затребуваним на ринку мікроконтролерам STM32: **[Раз](https://www.youtube.com/playlist?list=PL8OgDYWys_b6XtOjCejd37aVv0ic24jqV){:target="_blank"}**, **[Два](https://www.youtube.com/playlist?list=PL8OgDYWys_b6s8BhISvA-yY1NXlYFgnn2){:target="_blank"}**, **[Три](https://www.youtube.com/watch?v=HwomcPSQsRE&list=PLJTlt64jBcCuRgAMGImQzxRlYdSKa5Ifk){:target="_blank"}**.
 
-28) Також рекомендуємо дуже хороший онлайн курс на edX (англійською), в якому вас з нуля навчать створювати embedded systems на базі мікроконтролерів Texas Instruments (основаних на ядрі ARM Cortex): **[Частина 1](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-inputoutput)**, **[Частина 2](https://www.edx.org/course/embedded-systems-shape-the-world-multi-threaded-interfacing)**.
+28) Також рекомендуємо дуже хороший онлайн курс на edX (англійською), в якому вас з нуля навчать створювати embedded systems на базі мікроконтролерів Texas Instruments (основаних на ядрі ARM Cortex): **[Частина 1](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-inputoutput){:target="_blank"}**, **[Частина 2](https://www.edx.org/course/embedded-systems-shape-the-world-multi-threaded-interfacing){:target="_blank"}**.
 
-29) А ось **[ще один крутий курс](https://www.edx.org/course/real-time-bluetooth-networks-shape-the-world)** від тих же викладачів, але вже по бездротових технологіях та операційних системах реального часу. "Real-Time Bluetooth Networks - Shape the World".
+29) А ось **[ще один крутий курс](https://www.edx.org/course/real-time-bluetooth-networks-shape-the-world){:target="_blank"}** від тих же викладачів, але вже по бездротових технологіях та операційних системах реального часу. "Real-Time Bluetooth Networks - Shape the World".
 
-30) **[Відео лекції](https://www.youtube.com/watch?v=LrXXpQr1itY&list=PLX6sqqUB8iOjsMfGEDcsPSuYLEFCh50Hr)** з конфігурованих систем-на-кристалі PSoC від Cypress. PSoC це аналого-цифрові мікросхеми програмованої логіки, що містять ARM процесср, а також операційні підсилювачі, аналогові компаратори, АЦП і ЦАП, які можна з'єднувати довільним чином всередині чіпа. Деякі моделі містять вбудований BLE. **[Детальніше тут](https://dou.ua/forums/topic/17973/)**. Рекомендуємо **[сайт](http://embedded.co.ua)** з навчальними матеріалами по PSOC українською мовою і **[десятки](https://www.element14.com/community/thread/23736/l/100-projects-in-100-days)** **[прикладів](https://iotexpert.com)** проектів.
+30) **[Відео лекції](https://www.youtube.com/watch?v=LrXXpQr1itY&list=PLX6sqqUB8iOjsMfGEDcsPSuYLEFCh50Hr){:target="_blank"}** з конфігурованих систем-на-кристалі PSoC від Cypress. PSoC це аналого-цифрові мікросхеми програмованої логіки, що містять ARM процесср, а також операційні підсилювачі, аналогові компаратори, АЦП і ЦАП, які можна з'єднувати довільним чином всередині чіпа. Деякі моделі містять вбудований BLE. **[Детальніше тут](https://dou.ua/forums/topic/17973/){:target="_blank"}**. Рекомендуємо **[сайт](http://embedded.co.ua){:target="_blank"}** з навчальними матеріалами по PSOC українською мовою і **[десятки](https://www.element14.com/community/thread/23736/l/100-projects-in-100-days){:target="_blank"}** **[прикладів](https://iotexpert.com){:target="_blank"}** проектів.
 
-31) ConnectedMCU — чудовий курс по мікроконтролерам PIC32 на базі процесорного ядра MIPS і операційній системі реального часу FreeRTOS. Цей курс, що включає в себе і лаби, розробив професор Олександр Дін з університету штату Північна Кароліна, США. Загальний опис можна читнути **[тут](https://habr.com/post/282001/)**. Сам курс можна безкоштовно **[завантажити з сайту MIPS](https://www.mips.com/downloads/connected-microcontroller-lab-v1.6/)**, попередньо зареєструвавшись в університетській програмі компаніі. По матеріалами курсу є кілька **[відосіков](https://www.youtube.com/playlist?list=PLSTiCUiN_BoIzlrRkZjBMUVF-SIoaYbLl)**.
+31) ConnectedMCU — чудовий курс по мікроконтролерам PIC32 на базі процесорного ядра MIPS і операційній системі реального часу FreeRTOS. Цей курс, що включає в себе і лаби, розробив професор Олександр Дін з університету штату Північна Кароліна, США. Загальний опис можна читнути **[тут](https://habr.com/post/282001/){:target="_blank"}**. Сам курс можна безкоштовно **[завантажити з сайту MIPS](https://www.mips.com/downloads/connected-microcontroller-lab-v1.6/){:target="_blank"}**, попередньо зареєструвавшись в університетській програмі компаніі. По матеріалами курсу є кілька **[відосіков](https://www.youtube.com/playlist?list=PLSTiCUiN_BoIzlrRkZjBMUVF-SIoaYbLl){:target="_blank"}**.
 
-32) А ось **[цикл воркшопів](https://www.facebook.com/lampa.kpi/posts/1708350822757132)** нашої лаби по вступу до Інтернету Речей. Дуже багато корисної інформації з практичними прикладами. За посиланням детально все розписано.
+32) А ось **[цикл воркшопів](https://www.facebook.com/lampa.kpi/posts/1708350822757132){:target="_blank"}** нашої лаби по вступу до Інтернету Речей. Дуже багато корисної інформації з практичними прикладами. За посиланням детально все розписано.
 
-33) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1881919375400275)** по вивченню плати BBC Microbit. Плата дуже крута. Її вартість всього 15$. При цьому на платі є ARM Cortex-M0, BLE, акселерометр, магнітометр, екранчик з 25 світлодіодів і дві кнопки.
+33) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1881919375400275){:target="_blank"}** по вивченню плати BBC Microbit. Плата дуже крута. Її вартість всього 15$. При цьому на платі є ARM Cortex-M0, BLE, акселерометр, магнітометр, екранчик з 25 світлодіодів і дві кнопки.
 
 ### Мікроелектроніка, розробка та верифікація цифрових мікросхем на Verilog, System Verilog
 
-34) **[Навчальний фільм](https://www.youtube.com/watch?v=5di1Ec6n5CQ)** про технологію виготовлення мікросхем на заводах Intel, перекладений нами на українську мову.
+34) **[Навчальний фільм](https://www.youtube.com/watch?v=5di1Ec6n5CQ){:target="_blank"}** про технологію виготовлення мікросхем на заводах Intel, перекладений нами на українську мову.
 
-35) **[Надзвичайно цікаве відео](https://www.youtube.com/watch?v=Gt6VyuLZBww)** по реверс інжинірингу чіпів. Автор дуже цікаво розповідає про сучасні методи злому апаратного криптографічного захисту (наприклад, в смарт картах). Матеріал викладається дуже доступно. Буде зрозуміло навіть людям без серйозного бекграунду в електроніці.
+35) **[Надзвичайно цікаве відео](https://www.youtube.com/watch?v=Gt6VyuLZBww){:target="_blank"}** по реверс інжинірингу чіпів. Автор дуже цікаво розповідає про сучасні методи злому апаратного криптографічного захисту (наприклад, в смарт картах). Матеріал викладається дуже доступно. Буде зрозуміло навіть людям без серйозного бекграунду в електроніці.
 
-36) **[Ще одне круте відео](https://www.youtube.com/watch?v=Ii54l-R_RIs)** про апаратні атаки від Іллі Кухаренко.
+36) **[Ще одне круте відео](https://www.youtube.com/watch?v=Ii54l-R_RIs){:target="_blank"}** про апаратні атаки від Іллі Кухаренко.
 
-37) Дві відео лекції від інженерів компанії Melexis з **[проектування](https://www.youtube.com/watch?v=o7wSvpYlmOo)** і **[верифікації](https://www.youtube.com/watch?v=Ku-4xk1C6WE)** цифрових мікросхем.
+37) Дві відео лекції від інженерів компанії Melexis з **[проектування](https://www.youtube.com/watch?v=o7wSvpYlmOo){:target="_blank"}** і **[верифікації](https://www.youtube.com/watch?v=Ku-4xk1C6WE){:target="_blank"}** цифрових мікросхем.
 
-38) **[Відео](https://www.youtube.com/watch?v=VTaD99NnerI)** про те, як створити свій процесор.
+38) **[Відео](https://www.youtube.com/watch?v=VTaD99NnerI){:target="_blank"}** про те, як створити свій процесор.
 
-39) **[Підбірка відео лекцій](https://www.youtube.com/watch?v=71dW7t7uTo0&list=PLBT67dnO-gThmvpsYU-rXqrPH1-jCJGzw)** по всім етапам розробки і виготовлення мікросхем від інженера Silicon Valley Чарльза Данчека.
+39) **[Підбірка відео лекцій](https://www.youtube.com/watch?v=71dW7t7uTo0&list=PLBT67dnO-gThmvpsYU-rXqrPH1-jCJGzw){:target="_blank"}** по всім етапам розробки і виготовлення мікросхем від інженера Silicon Valley Чарльза Данчека.
 
-40) Знаючи основи цифрової схемотехніки, можна переходити до вивчення способів розробки власних мікросхем, процесорів і цифрових фільтрів на мові Verilog. Рекомендуємо **[величезний відео курс](https://www.youtube.com/playlist?list=PL4WQQHlheqfyIZSzsJXqs6kBQhhsTRBC7)** по цим напрямкам.
+40) Знаючи основи цифрової схемотехніки, можна переходити до вивчення способів розробки власних мікросхем, процесорів і цифрових фільтрів на мові Verilog. Рекомендуємо **[величезний відео курс](https://www.youtube.com/playlist?list=PL4WQQHlheqfyIZSzsJXqs6kBQhhsTRBC7){:target="_blank"}** по цим напрямкам.
 
-41) А в цьому дуже відомому **[курсі](https://www.coursera.org/learn/comparch)** на Coursera вас навчать проектувати складні сучасні процесори з кеш пам'яттю, конвеєром, віртуальною пам'яттю, багатопоточністю, прогнозуванням переходів та багатьма іншими крутими технологіями.
+41) А в цьому дуже відомому **[курсі](https://www.coursera.org/learn/comparch){:target="_blank"}** на Coursera вас навчать проектувати складні сучасні процесори з кеш пам'яттю, конвеєром, віртуальною пам'яттю, багатопоточністю, прогнозуванням переходів та багатьма іншими крутими технологіями.
 
-42) Підбірка **[ресурсів](https://www.facebook.com/lampa.kpi/posts/1888196458105900)** для вивчення комерційного процесора MIPSfpga з відкритим вихідним кодом.
+42) Підбірка **[ресурсів](https://www.facebook.com/lampa.kpi/posts/1888196458105900){:target="_blank"}** для вивчення комерційного процесора MIPSfpga з відкритим вихідним кодом.
 
-43) Детальний опис найпростішого SDRAM контролера для MIPSfpga: **[Частина 1](https://habr.com/post/321530/)**, **[частина 2](https://habr.com/post/321532/)**. Матеріал цікавий тим, що більшість серйозних SDRAM контролерів дуже складні і розібратися в їх реалізації непросто для новачка. А тут всі основи розкладено по поличках. Рекомендуємо звернути увагу тим, хто починає вивчати розробку процесорів.
+43) Детальний опис найпростішого SDRAM контролера для MIPSfpga: **[Частина 1](https://habr.com/post/321530/){:target="_blank"}**, **[частина 2](https://habr.com/post/321532/){:target="_blank"}**. Матеріал цікавий тим, що більшість серйозних SDRAM контролерів дуже складні і розібратися в їх реалізації непросто для новачка. А тут всі основи розкладено по поличках. Рекомендуємо звернути увагу тим, хто починає вивчати розробку процесорів.
 
 44) Кілька хороших статей з проектування систем-на-кристалі на базі FPGA, які написав наш активний учасник Олег Плотніков.
 
-У **[першій статті](https://habr.com/post/329808/)** Олег докладно описує, як перенести MIPSfpga на плату Digilent cmod A7 на основі Xilinx FPGA Artix-7 (з використанням Vivado) і як програмувати створену систему з використанням комерційного тулчейна Codescape, як підключити до MIPSfpga семисегментний індикатор.
+У **[першій статті](https://habr.com/post/329808/){:target="_blank"}** Олег докладно описує, як перенести MIPSfpga на плату Digilent cmod A7 на основі Xilinx FPGA Artix-7 (з використанням Vivado) і як програмувати створену систему з використанням комерційного тулчейна Codescape, як підключити до MIPSfpga семисегментний індикатор.
 
-У **[другій статті](https://habr.com/post/329852/)** Олег показує, як створити апаратний контролер клавіатури, інтегрувати його в систему-на-кристалі і програмно зчитувати коди натиснутих клавіш.
+У **[другій статті](https://habr.com/post/329852/){:target="_blank"}** Олег показує, як створити апаратний контролер клавіатури, інтегрувати його в систему-на-кристалі і програмно зчитувати коди натиснутих клавіш.
 
-У **[третій статті](https://habr.com/post/329854/)** показано, як інтегрувати з MIPSfpga АЦП, вбудований в FPGA Artix-7 і як за допомогою цього АЦП вимірювати напругу на фоторезисторі. Тут же описано, як підключити до MIPSfpga LCD дисплей від Nokia 5100 за допомогою саморобного апаратного SPI контролера.
+У **[третій статті](https://habr.com/post/329854/){:target="_blank"}** показано, як інтегрувати з MIPSfpga АЦП, вбудований в FPGA Artix-7 і як за допомогою цього АЦП вимірювати напругу на фоторезисторі. Тут же описано, як підключити до MIPSfpga LCD дисплей від Nokia 5100 за допомогою саморобного апаратного SPI контролера.
 
-45) **[Підбірка відкритих програм](https://www.facebook.com/lampa.kpi/posts/1671330236459191)** для створення цифрових мікросхем.
+45) **[Підбірка відкритих програм](https://www.facebook.com/lampa.kpi/posts/1671330236459191){:target="_blank"}** для створення цифрових мікросхем.
 
-46) Про те, як безкоштовно виготовити розроблені вами мікросхеми: **[Частина 1](https://www.facebook.com/lampa.kpi/posts/1712695628989318)**, **[частина 2](https://www.facebook.com/lampa.kpi/posts/1751170215141859)**.
+46) Про те, як безкоштовно виготовити розроблені вами мікросхеми: **[Частина 1](https://www.facebook.com/lampa.kpi/posts/1712695628989318){:target="_blank"}**, **[частина 2](https://www.facebook.com/lampa.kpi/posts/1751170215141859){:target="_blank"}**.
 
-47) Підбірка відкритих вихідних кодів компонентів цифрових мікросхем: **[Частина 1](https://www.facebook.com/lampa.kpi/posts/1707724276153120)**, **[частина 2](https://www.facebook.com/lampa.kpi/posts/1918846038374275)**.
+47) Підбірка відкритих вихідних кодів компонентів цифрових мікросхем: **[Частина 1](https://www.facebook.com/lampa.kpi/posts/1707724276153120){:target="_blank"}**, **[частина 2](https://www.facebook.com/lampa.kpi/posts/1918846038374275){:target="_blank"}**.
 
-48) **[Відкритий ресурс](https://verificationacademy.com)** з матеріалами для вивчення верифікації цифрових мікросхем. Верифікація мікросхем зараз дуже затребувана, оскільки більшість сучасних багатоядерних процесорів та інших мікрух проектуються з готових і налагоджених компонентів, які називаються IP Cores. Тому значна частина часу відводиться на перевірку узгодженості взаємодії між частинами системи і оцінку того, на скільки функціонування створеного чіпа відповідає специфікації.
+48) **[Відкритий ресурс](https://verificationacademy.com){:target="_blank"}** з матеріалами для вивчення верифікації цифрових мікросхем. Верифікація мікросхем зараз дуже затребувана, оскільки більшість сучасних багатоядерних процесорів та інших мікрух проектуються з готових і налагоджених компонентів, які називаються IP Cores. Тому значна частина часу відводиться на перевірку узгодженості взаємодії між частинами системи і оцінку того, на скільки функціонування створеного чіпа відповідає специфікації.
 
-49) Приклад багаторівневого тестбенчу на мові System Verilog для верифікації скінченного автомату. **[Опис проекту](https://habr.com/post/319730/)**, **[Вихідний код](https://github.com/ogvalt/VM_Verification)**, **[Книга](https://drive.google.com/file/d/0B9fI2BqoGDwTdlBEVVFjdFNLakE/view)** з основ верифікації.
+49) Приклад багаторівневого тестбенчу на мові System Verilog для верифікації скінченного автомату. **[Опис проекту](https://habr.com/post/319730/){:target="_blank"}**, **[Вихідний код](https://github.com/ogvalt/VM_Verification){:target="_blank"}**, **[Книга](https://drive.google.com/file/d/0B9fI2BqoGDwTdlBEVVFjdFNLakE/view){:target="_blank"}** з основ верифікації.
 
 ### DSP (Digital Signal Processing) та SDR (Software Defined Radio)
 
-50) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1781885732070307)** по вступу до SDR.
+50) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1781885732070307){:target="_blank"}** по вступу до SDR.
 
-51) **[Ютуб канал](https://www.youtube.com/playlist?list=PLCiD_CIVldUFCmTWnZ_2E-_ypOrEJ_5n8)** з проектами для недорогої і популярної SDR плати HackRF.
+51) **[Ютуб канал](https://www.youtube.com/playlist?list=PLCiD_CIVldUFCmTWnZ_2E-_ypOrEJ_5n8){:target="_blank"}** з проектами для недорогої і популярної SDR плати HackRF.
 
-52) А ось **[крутий курс](https://inst.eecs.berkeley.edu/~ee123/sp16/index.html)** з Berkeley по радіопередачі і цифровій обробці сигналів з дуже цікавими лабами.
+52) А ось **[крутий курс](https://inst.eecs.berkeley.edu/~ee123/sp16/index.html){:target="_blank"}** з Berkeley по радіопередачі і цифровій обробці сигналів з дуже цікавими лабами.
 
 ### Мікрокомп'ютери
 
-53) **[Курс російською](https://www.youtube.com/playlist?list=PL2A74bPVAXGvJzHs9zpPATExiysNIxmL5)** для вивчення популярного одноплатного комп'ютера Raspberry Pi.
+53) **[Курс російською](https://www.youtube.com/playlist?list=PL2A74bPVAXGvJzHs9zpPATExiysNIxmL5){:target="_blank"}** для вивчення популярного одноплатного комп'ютера Raspberry Pi.
 
-54) У попередньому курсі розглянуті самі основи Raspberry Pi. Тим, кого цікавлять більш складні речі, рекомендуємо пройти **[цей курс](https://www.youtube.com/playlist?list=PLGs0VKk2DiYypuwUUM2wxzcI9BJHK4Bfh)** англійською.
+54) У попередньому курсі розглянуті самі основи Raspberry Pi. Тим, кого цікавлять більш складні речі, рекомендуємо пройти **[цей курс](https://www.youtube.com/playlist?list=PLGs0VKk2DiYypuwUUM2wxzcI9BJHK4Bfh){:target="_blank"}** англійською.
 
-55) А ось **[курс](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyThNvj6VyDFmOnQ8ncXk8b)** з вивчення одноплатного комп'ютера Beagle Bone Black. **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/2151207335138143)** по Beagle Bone Black.
+55) А ось **[курс](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyThNvj6VyDFmOnQ8ncXk8b){:target="_blank"}** з вивчення одноплатного комп'ютера Beagle Bone Black. **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/2151207335138143){:target="_blank"}** по Beagle Bone Black.
 
-56) Розроблені нами **[лабораторні роботи](https://drive.google.com/file/d/0B9fI2BqoGDwTbjZxMVFRRnJpWDA/view)** з вивчення Linkit Smart 7688 (недорогий одноплатний комп'ютер з WiFi).
+56) Розроблені нами **[лабораторні роботи](https://drive.google.com/file/d/0B9fI2BqoGDwTbjZxMVFRRnJpWDA/view){:target="_blank"}** з вивчення Linkit Smart 7688 (недорогий одноплатний комп'ютер з WiFi).
 
-57) Цикл статей з програмування Raspberry Pi на чистому C, без Linux (включаючи переривання, комунікаційні інтерфейси і графіку). Попутно дізнаєтеся з курсу безліч важливих речей зі світу вбудованих систем (наприклад, як реалізований рантайм мови С і що таке скрипт лінкера). **[Частина 1](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/)**, **[частина 2](http://www.valvers.com/open-software/raspberry-pi/step02-bare-metal-programming-in-c-pt2/)**, **[частина 3](http://www.valvers.com/open-software/raspberry-pi/step03-bare-metal-programming-in-c-pt3/)**, **[частина 4](http://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/)**, **[частина 5](http://www.valvers.com/open-software/raspberry-pi/step05-bare-metal-programming-in-c-pt5/)**.
+57) Цикл статей з програмування Raspberry Pi на чистому C, без Linux (включаючи переривання, комунікаційні інтерфейси і графіку). Попутно дізнаєтеся з курсу безліч важливих речей зі світу вбудованих систем (наприклад, як реалізований рантайм мови С і що таке скрипт лінкера). **[Частина 1](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/){:target="_blank"}**, **[частина 2](http://www.valvers.com/open-software/raspberry-pi/step02-bare-metal-programming-in-c-pt2/){:target="_blank"}**, **[частина 3](http://www.valvers.com/open-software/raspberry-pi/step03-bare-metal-programming-in-c-pt3/){:target="_blank"}**, **[частина 4](http://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/){:target="_blank"}**, **[частина 5](http://www.valvers.com/open-software/raspberry-pi/step05-bare-metal-programming-in-c-pt5/){:target="_blank"}**.
 
 ### Проектування друкованих плат
 
-58) Кожен поважаючий себе електронщик повинен вміти розробляти друковані плати. Ось **[чудовий курс](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx)** по Altium Designer.
+58) Кожен поважаючий себе електронщик повинен вміти розробляти друковані плати. Ось **[чудовий курс](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx){:target="_blank"}** по Altium Designer.
 
-59) Цикл гарних статей по Eagle CAD: **[Стаття 1](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html)**, **[Стаття 2](http://easyelectronics.ru/rabota-v-eagle-cad-chast-2.html)**, **[Стаття 3](http://easyelectronics.ru/rabota-v-eagle-cad-chast-3-avtomaticheskaya-trassirovka-plat.html)**, **[Стаття 4](http://easyelectronics.ru/rabota-v-eagle-cad-chast-4-podgotovka-k-proizvodstvu.html)**.
+59) Цикл гарних статей по Eagle CAD: **[Стаття 1](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html){:target="_blank"}**, **[Стаття 2](http://easyelectronics.ru/rabota-v-eagle-cad-chast-2.html){:target="_blank"}**, **[Стаття 3](http://easyelectronics.ru/rabota-v-eagle-cad-chast-3-avtomaticheskaya-trassirovka-plat.html){:target="_blank"}**, **[Стаття 4](http://easyelectronics.ru/rabota-v-eagle-cad-chast-4-podgotovka-k-proizvodstvu.html){:target="_blank"}**.
 
-60) А ось **[посилання](https://www.fedevel.com/academy/course-comparison/)** на комерційні курси по Altium Designer від професіонала з 10-річним досвідом розробки складних материнських плат. Вартість курсів 45 $ -400 $. Є різні курси: від основ до проектування багатошарових високочастотних плат. Ми тут прикупили кілька курсів для активних учасників лаби і відповідально заявляємо, що воно того варте. Ці курси — концентрат лайфхаків, досвіду і практики. Пару сотень баксів за таке — взагалі копійки.
+60) А ось **[посилання](https://www.fedevel.com/academy/course-comparison/){:target="_blank"}** на комерційні курси по Altium Designer від професіонала з 10-річним досвідом розробки складних материнських плат. Вартість курсів 45 $ -400 $. Є різні курси: від основ до проектування багатошарових високочастотних плат. Ми тут прикупили кілька курсів для активних учасників лаби і відповідально заявляємо, що воно того варте. Ці курси — концентрат лайфхаків, досвіду і практики. Пару сотень баксів за таке — взагалі копійки.
 
 ### Робота з лазерним верстатом
 
