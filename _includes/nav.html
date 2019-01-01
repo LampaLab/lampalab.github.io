@@ -21,13 +21,21 @@
             <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Про нас<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li class="{% if page.url == '/about_us.html' %}active{% endif %}"><a href="{{site.baseurl}}/about_us.html">Про лабораторію</a></li>
+              <li class="{% if page.url == '/media.html' %}active{% endif %}"><a href="{{site.baseurl}}/media.html">ЗМІ про нас</a></li>
               <li><a href="https://www.facebook.com/lampa.kpi/photos/a.1581441292114753.1073741829.1579493785642837/1640509106207971/?type=3&theater" target="_blank">Звіт за 2015 рік</a></li>
               <li><a href="https://www.facebook.com/lampa.kpi/photos/a.1581441292114753.1073741829.1579493785642837/1787629241495956/?type=3&theater" target="_blank">Звіт за 2016 рік</a></li>
               <li><a href="https://telegra.ph/Otchet-Lampy-za-2017-god-01-01" target="_blank">Звіт за 2017 рік</a></li>
             </ul>
           </li>
 
-	  <li class="{% if page.url == '/equipment.html' %}active{% endif %}"><a href="{{site.baseurl}}/equipment.html">Обладнання</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Обладнання<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+	      <li class="{% if page.url == '/equipment.html' %}active{% endif %}"><a href="{{site.baseurl}}/equipment.html">Обладнання лабораторії</a></li>
+              <li><a href="https://telegra.ph/3D-druk-v-Lampі-03-29/" target="_blank">Інструкція по 3D друку</a></li>
+            </ul>
+          </li>   
+
 	  <li class="{% if page.url == '/projects.html' %}active{% endif %}"><a href="{{site.baseurl}}/projects.html">Проекти</a></li>
 
           <li class="{% if page.url == '/education.html' %}active{% endif %}"><a href="{{site.baseurl}}/education.html">Навчання</a></li>
