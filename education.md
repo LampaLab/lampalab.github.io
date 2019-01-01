@@ -90,8 +90,6 @@ layout: education
 
 ### Мікроелектроніка, розробка та верифікація цифрових мікросхем на Verilog, System Verilog
 
-**[]()**
-
 34) **[Навчальний фільм](https://www.youtube.com/watch?v=5di1Ec6n5CQ)** про технологію виготовлення мікросхем на заводах Intel, перекладений нами на українську мову.
 
 35) **[Надзвичайно цікаве відео](https://www.youtube.com/watch?v=Gt6VyuLZBww)** по реверс інжинірингу чіпів. Автор дуже цікаво розповідає про сучасні методи злому апаратного криптографічного захисту (наприклад, в смарт картах). Матеріал викладається дуже доступно. Буде зрозуміло навіть людям без серйозного бекграунду в електроніці.
@@ -129,3 +127,35 @@ layout: education
 48) **[Відкритий ресурс](https://verificationacademy.com)** з матеріалами для вивчення верифікації цифрових мікросхем. Верифікація мікросхем зараз дуже затребувана, оскільки більшість сучасних багатоядерних процесорів та інших мікрух проектуються з готових і налагоджених компонентів, які називаються IP Cores. Тому значна частина часу відводиться на перевірку узгодженості взаємодії між частинами системи і оцінку того, на скільки функціонування створеного чіпа відповідає специфікації.
 
 49) Приклад багаторівневого тестбенчу на мові System Verilog для верифікації скінченного автомату. **[Опис проекту](https://habr.com/post/319730/)**, **[Вихідний код](https://github.com/ogvalt/VM_Verification)**, **[Книга](https://drive.google.com/file/d/0B9fI2BqoGDwTdlBEVVFjdFNLakE/view)** з основ верифікації.
+
+### DSP (Digital Signal Processing) та SDR (Software Defined Radio)
+
+50) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1781885732070307)** по вступу до SDR.
+
+51) **[Ютуб канал](https://www.youtube.com/playlist?list=PLCiD_CIVldUFCmTWnZ_2E-_ypOrEJ_5n8)** з проектами для недорогої і популярної SDR плати HackRF.
+
+52) А ось **[крутий курс](https://inst.eecs.berkeley.edu/~ee123/sp16/index.html)** з Berkeley по радіопередачі і цифровій обробці сигналів з дуже цікавими лабами.
+
+### Мікрокомп'ютери
+
+53) **[Курс російською](https://www.youtube.com/playlist?list=PL2A74bPVAXGvJzHs9zpPATExiysNIxmL5)** для вивчення популярного одноплатного комп'ютера Raspberry Pi.
+
+54) У попередньому курсі розглянуті самі основи Raspberry Pi. Тим, кого цікавлять більш складні речі, рекомендуємо пройти **[цей курс](https://www.youtube.com/playlist?list=PLGs0VKk2DiYypuwUUM2wxzcI9BJHK4Bfh)** англійською.
+
+55) А ось **[курс](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyThNvj6VyDFmOnQ8ncXk8b)** з вивчення одноплатного комп'ютера Beagle Bone Black. **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/2151207335138143)** по Beagle Bone Black.
+
+56) Розроблені нами **[лабораторні роботи](https://drive.google.com/file/d/0B9fI2BqoGDwTbjZxMVFRRnJpWDA/view)** з вивчення Linkit Smart 7688 (недорогий одноплатний комп'ютер з WiFi).
+
+57) Цикл статей з програмування Raspberry Pi на чистому C, без Linux (включаючи переривання, комунікаційні інтерфейси і графіку). Попутно дізнаєтеся з курсу безліч важливих речей зі світу вбудованих систем (наприклад, як реалізований рантайм мови С і що таке скрипт лінкера). **[Частина 1](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1/)**, **[частина 2](http://www.valvers.com/open-software/raspberry-pi/step02-bare-metal-programming-in-c-pt2/)**, **[частина 3](http://www.valvers.com/open-software/raspberry-pi/step03-bare-metal-programming-in-c-pt3/)**, **[частина 4](http://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/)**, **[частина 5](http://www.valvers.com/open-software/raspberry-pi/step05-bare-metal-programming-in-c-pt5/)**.
+
+### Проектування друкованих плат
+
+58) Кожен поважаючий себе електронщик повинен вміти розробляти друковані плати. Ось **[чудовий курс](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx)** по Altium Designer.
+
+59) Цикл гарних статей по Eagle CAD: **[Стаття 1](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html)**, **[Стаття 2](http://easyelectronics.ru/rabota-v-eagle-cad-chast-2.html)**, **[Стаття 3](http://easyelectronics.ru/rabota-v-eagle-cad-chast-3-avtomaticheskaya-trassirovka-plat.html)**, **[Стаття 4](http://easyelectronics.ru/rabota-v-eagle-cad-chast-4-podgotovka-k-proizvodstvu.html)**.
+
+60) А ось **[посилання](https://www.fedevel.com/academy/course-comparison/)** на комерційні курси по Altium Designer від професіонала з 10-річним досвідом розробки складних материнських плат. Вартість курсів 45 $ -400 $. Є різні курси: від основ до проектування багатошарових високочастотних плат. Ми тут прикупили кілька курсів для активних учасників лаби і відповідально заявляємо, що воно того варте. Ці курси — концентрат лайфхаків, досвіду і практики. Пару сотень баксів за таке — взагалі копійки.
+
+### Робота з лазерним верстатом
+
+61) Гарний **[ютуб-канал](https://www.youtube.com/user/SarbarMultimedia/videos)**, де британець розповідає, як робити всякі круті штуки на китайському лазерному різаку за 1500 $ (50 Вт, CO2). Не зовсім електроніка, але канал вже дуже цікавий.
