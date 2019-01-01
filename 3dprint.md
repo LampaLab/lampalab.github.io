@@ -1,7 +1,7 @@
 ---
 layout: education
 image: /img/3dprint.png
-description: "Інструкція по користуванню 3D принтерами лабораторії Lampa"
+description: "Інструкція по користуванню 3D принтерами в лабораторії Lampa"
 ---
 
 ## 3D друк в Лампі
