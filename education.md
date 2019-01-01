@@ -55,3 +55,17 @@ layout: education
 18) **[Крутий курс](https://www.youtube.com/playlist?list=PLZuGFJzpFksCYXw6-fwK7PDaX1W836X7L)** з GNU Electric, що є однією з небагатьох відкритих програм для розробки чіпів.
 
 19) **[Два навчальних відео](https://www.youtube.com/watch?v=wNHsKDn6Y3A&list=PLgUwXvgNkHQLO3A8j1NC338lka7UzdWBM)** про те, як користуватися нескладним симулятором аналогових схем LTSpice. А ось **[великий англомовний плейліст](https://www.youtube.com/watch?v=JWm8z5fyhP8&list=PL4vooS_8RnzE4EoE27QssuxsccFmspbRP)** на ютубі на цю ж тему.
+
+### Цифрова схемотехніка
+
+20) Щоб розуміти як працює процесор, необхідно вивчити основи цифрової схемотехніки. Для цього радимо пройти **[україномовний курс](https://www.youtube.com/playlist?list=PL4WQQHlheqfzl71QHEBzrB_dRLF1fI7wz)**.
+
+21) А **[тут](https://github.com/KorotkiyEugene/digital_lab)** лабораторні роботи з основ цифрової схемотехніки і мови Verilog до курсу з попереднього пункту.
+
+22) Для вивчення цифрової схемотехніки дуже рекомендуємо **[переклад бестселера "Digital Design and Computer Architecture"](http://silicon-russia.com/public_materials/2016_11_04_one_day_mipsfpga_connected_mcu_materials_public_for_the_website/03_present_the_book_ddca_by_harris_and_harris/digital-design-and-computer-architecture-russian-translation_July16_2016.pdf)**. У книзі доступно описана цифрова схемотехніка та основи Verilog, а також архітектура RISC процесорів на прикладі MIPS і різні варіанти реалізації цієї архітектури, у т.ч. конвеєрна. В кінці описана кеш пам'ять, доступ до периферії і менеджер віртуальної пам'яті. Ця книга — однозначний мастрід.
+
+23) **[Слайди](https://habr.com/post/308976/)** університетського курсу цифрової схемотехніки за матеріалами книги з попереднього пункту. По суті, компактний переказ вмісту книги.
+
+24) **[Відмінна стаття](https://habr.com/post/235037/)** з основ конвеєризації в обчислювальних системах.
+
+25) Дуже хороший проект для розуміння принципів роботи обчислювальних систем. Це простий комп'ютер з 17-ти мікросхем з саморобним процесором. Інформацію можна вводити через 4 кнопки, виводити на LCD екран і динамік. Є схема, рекомендації по складанню, асемблер, симулятор, приклади програм. **[Стаття на Хабрі](https://habr.com/post/200930/)**, **[Сайт автора](http://www.bigmessowires.com/nibbler/)**.
