@@ -69,3 +69,23 @@ layout: education
 24) **[Відмінна стаття](https://habr.com/post/235037/)** з основ конвеєризації в обчислювальних системах.
 
 25) Дуже хороший проект для розуміння принципів роботи обчислювальних систем. Це простий комп'ютер з 17-ти мікросхем з саморобним процесором. Інформацію можна вводити через 4 кнопки, виводити на LCD екран і динамік. Є схема, рекомендації по складанню, асемблер, симулятор, приклади програм. **[Стаття на Хабрі](https://habr.com/post/200930/)**, **[Сайт автора](http://www.bigmessowires.com/nibbler/)**.
+
+### Мікроконтролери і операційні системи реального часу (RTOS)
+
+Знання схемотехніки це, звичайно, добре, але часто потрібно вміти працювати з уже готовими процесорами і контроллерами.
+
+26) Дуже популярним сімейством мікроконтролерів є AVR. Багато плат Arduino побудовані саме на базі AVR. **[Ось хороший курс](https://www.youtube.com/watch?v=m-yY-GFp3VE&list=PLBLtydguylgDUtd9qRAt82u-pUa9x6O8Y)** по AVR мікроконтролерам.
+
+27) Відмінні курси по мега популярним і затребуваним на ринку мікроконтролерам STM32: **[Раз](https://www.youtube.com/playlist?list=PL8OgDYWys_b6XtOjCejd37aVv0ic24jqV)**, **[Два](https://www.youtube.com/playlist?list=PL8OgDYWys_b6s8BhISvA-yY1NXlYFgnn2)**, **[Три](https://www.youtube.com/watch?v=HwomcPSQsRE&list=PLJTlt64jBcCuRgAMGImQzxRlYdSKa5Ifk)**.
+
+28) Також рекомендуємо дуже хороший онлайн курс на edX (англійською), в якому вас з нуля навчать створювати embedded systems на базі мікроконтролерів Texas Instruments (основаних на ядрі ARM Cortex): **[Частина 1](https://www.edx.org/course/embedded-systems-shape-the-world-microcontroller-inputoutput)**, **[Частина 2](https://www.edx.org/course/embedded-systems-shape-the-world-multi-threaded-interfacing)**.
+
+29) А ось **[ще один крутий курс](https://www.edx.org/course/real-time-bluetooth-networks-shape-the-world)** від тих же викладачів, але вже по бездротових технологіях та операційних системах реального часу. "Real-Time Bluetooth Networks - Shape the World".
+
+30) **[Відео лекції](https://www.youtube.com/watch?v=LrXXpQr1itY&list=PLX6sqqUB8iOjsMfGEDcsPSuYLEFCh50Hr)** з конфігурованих систем-на-кристалі PSoC від Cypress. PSoC це аналого-цифрові мікросхеми програмованої логіки, що містять ARM процесср, а також операційні підсилювачі, аналогові компаратори, АЦП і ЦАП, які можна з'єднувати довільним чином всередині чіпа. Деякі моделі містять вбудований BLE. **[Детальніше тут](https://dou.ua/forums/topic/17973/)**. Рекомендуємо **[сайт](http://embedded.co.ua)** з навчальними матеріалами по PSOC українською мовою і **[десятки](https://www.element14.com/community/thread/23736/l/100-projects-in-100-days)** **[прикладів](https://iotexpert.com)** проектів.
+
+31) ConnectedMCU — чудовий курс по мікроконтролерам PIC32 на базі процесорного ядра MIPS і операційній системі реального часу FreeRTOS. Цей курс, що включає в себе і лаби, розробив професор Олександр Дін з університету штату Північна Кароліна, США. Загальний опис можна читнути **[тут](https://habr.com/post/282001/)**. Сам курс можна безкоштовно **[завантажити з сайту MIPS](https://www.mips.com/downloads/connected-microcontroller-lab-v1.6/)**, попередньо зареєструвавшись в університетській програмі компаніі. По матеріалами курсу є кілька **[відосіков](https://www.youtube.com/playlist?list=PLSTiCUiN_BoIzlrRkZjBMUVF-SIoaYbLl)**.
+
+32) А ось **[цикл воркшопів](https://www.facebook.com/lampa.kpi/posts/1708350822757132)** нашої лаби по вступу до Інтернету Речей. Дуже багато корисної інформації з практичними прикладами. За посиланням детально все розписано.
+
+33) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1881919375400275)** по вивченню плати BBC Microbit. Плата дуже крута. Її вартість всього 15$. При цьому на платі є ARM Cortex-M0, BLE, акселерометр, магнітометр, екранчик з 25 світлодіодів і дві кнопки.
