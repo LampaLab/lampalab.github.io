@@ -1060,7 +1060,7 @@ iframe {
 }
 
 .menu-item h3 a{
-	color: #3d3d3d !important;
+	color: #4A90BD !important;
 }
 
 .menu-item h3 a:hover{
@@ -1071,10 +1071,6 @@ iframe {
 
 #projects-menu {
 	padding-bottom: 30px;
-}
-
-#projects-menu h3 a:link {
-	color: #4A90BD;
 }
 
 #project-body .claim {
