@@ -82,4 +82,4 @@ Prusa P3Steel використовує пластик діаметром 1.75 м
 
 ### Корисні поради для 3D друку
 
-Поради доступні **[за посиланням](https://docs.google.com/document/d/1ea0iwyPkw4g35mo5jPZa1Pp75_hfcIb0H062X_vJoRg/edit/){:target="_blank"}**
+Поради доступні **[за посиланням](https://docs.google.com/document/d/1ea0iwyPkw4g35mo5jPZa1Pp75_hfcIb0H062X_vJoRg/){:target="_blank"}**
