@@ -22,7 +22,7 @@ layout: default
   <div class="container">
     <div class="row" id="content-blocks-row">
 
-      {% assign sorted_photos = site.photos | sort: 'rating', 'last' %}
+      {% assign sorted_photos = site.photos | sort: 'weight' %}
 
       {% for photo in sorted_photos %}  
 			    		
