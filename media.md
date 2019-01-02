@@ -4,7 +4,7 @@ image: /img/hero_slider/a_slider_3.jpg
 description: "ЗМІ про нашу лабу"
 ---
 
-## Публікації в ЗМІ про нашу лабу
+## ЗМІ про нашу лабу
 
 <br>
 
