@@ -10,3 +10,12 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 title: Відкрита лабораторія електроніки Лампа
+collections:
+  photos:
+    output: true
+defaults:
+  - scope:
+      path: ""
+        type: photos
+    values:
+      layout: photo

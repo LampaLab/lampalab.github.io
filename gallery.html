@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<header>
+  {% include nav.html %}
+</header>
+
+<section id="header-pages-blog">
+  <div class="container" id="header-pages-blog-title">
+
+    <h2 class="page-title">Фото галерея</h2>
+
+  </div>
+</section> <!-- hero -->
+
+{% include social.html %}
+
+<div class="container" id="separator-pages-top"></div>
+
+<section id="content-blocks">
+  <div class="container">
+    <div class="row" id="content-blocks-row">
+
+      {% assign sorted_photos = site.photos | sort: 'rating', 'last' %}
+
+      {% for photo in sorted_photos %}  
+			    		
+          <div class="col-md-3 col-sm-4" id="main-menu-button">
+            <div class="content-blocks-button">
+				    					                    
+              <a href="{{ photo.link }}"> <img src="{{ photo.image }}" class="image-fade" alt="{{ photo.title }}"/></a> 
+
+            </div> 
+          </div>	
+				         	  	    				  
+      {% endfor %}
+				
+    </div>
+  </div>	
+</section>
+
+<div class="container" id="separator"></div>
+
+{% include footer.html %}
+
