@@ -1,18 +1,25 @@
 markdown: kramdown
+
 kramdown:
     input: GFM
     hard_wrap: true
+
 redcarpet:  
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "underline", "highlight", "with_toc_data", "quote"]
+
 exclude: ['README.md']
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+
 title: Відкрита лабораторія електроніки Лампа
+
 collections:
   - photos:
     output: true
+
 defaults:
   - scope:
       path: ""
