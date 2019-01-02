@@ -5,6 +5,6 @@ description: "Випробовування проекта Gestus для керу
 weight: 3
 ---
 
-![ {{ title }} ]( {{ image }} )
+![{{page.title}} ]({{page.image}})
 
-<p style="text-align: center;"> {{ description }} </p>
+<p style="text-align: center;">{{page.description}}</p>
