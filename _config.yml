@@ -16,13 +16,13 @@ plugins:
 
 title: Відкрита лабораторія електроніки Лампа
 
-collections:
-  - photos:
+collections: 
+  photos: 
     output: true
 
-defaults:
-  - scope:
+defaults: 
+  - scope: 
       path: ""
         type: photos
-    values:
+    values: 
       layout: photo
