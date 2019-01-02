@@ -5,6 +5,6 @@ description: "Випробовування проекта Gestus для керу
 weight: 3
 ---
 
-![{{title}}]({{image}})
+![{{title}}]({{image | markdownify}})
 
 <p style="text-align: center;">{{description}}</p>
