@@ -4,6 +4,6 @@ image: /img/gallery/rohde_und_schwarz.jpg
 description: "Потужні осцилограф, мультиметр та аналізатор спектру надані компанією Rohde & Schwarz"
 ---
 
-![Обладнання від Rohde & Schwarz](/img/education.jpg)
+![Обладнання від Rohde & Schwarz](/img/gallery/rohde_und_schwarz.jpg)
 
-Потужні осцилограф, мультиметр та аналізатор спектру надані компанією Rohde & Schwarz
+<p style="text-align: center;"> Потужні осцилограф, мультиметр та аналізатор спектру надані компанією Rohde & Schwarz </p>
