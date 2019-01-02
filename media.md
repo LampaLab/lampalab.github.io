@@ -1,5 +1,5 @@
 ---
-layout: education
+layout: media
 image: /img/hero_slider/a_slider_3.jpg
 description: "Публікації в ЗМІ про нашу лабу"
 ---
