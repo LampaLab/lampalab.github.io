@@ -11,7 +11,7 @@ plugins:
   - jemoji
 title: Відкрита лабораторія електроніки Лампа
 collections:
-  photos:
+  - photos:
     output: true
 defaults:
   - scope:
