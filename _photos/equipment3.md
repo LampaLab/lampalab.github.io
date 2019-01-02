@@ -1,7 +1,8 @@
 ---
 title: "Налаштування Keysight DSOX1102G"
 image: /img/gallery/equipment_3.jpg
-description: "Сергій калібрує осцилограф з вбудованим генератором Налаштування Keysight DSOX1102G"
+thumb: /img/gallery/equipment_3_thumb.jpg
+description: "Сергій калібрує осцилограф з вбудованим генератором Keysight DSOX1102G"
 weight: 6
 ---
 
