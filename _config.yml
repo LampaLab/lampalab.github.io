@@ -23,6 +23,6 @@ collections:
 defaults: 
   - scope: 
       path: ""
-        type: photos
+      type: photos
     values: 
       layout: photo
