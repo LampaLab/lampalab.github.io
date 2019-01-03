@@ -2,7 +2,7 @@
 title: "Створення прототипу"
 image: /img/gallery/prototype.jpg
 thumb: /img/gallery/prototype_thumb.jpg
-description: "Створення прототипу пристрою дл навігації незрячих"
+description: "Створення прототипу пристрою для навігації незрячих"
 weight: 22
 ---
 
