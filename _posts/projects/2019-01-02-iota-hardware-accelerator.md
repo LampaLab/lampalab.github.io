@@ -45,12 +45,12 @@ IOTA знаходиться зараз на стадії перевірки ід
 
 ### Вихідний код проекту
 
-Детальний опис проекту знаходиться **[тут](http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=EM080)**
+Детальний опис проекту знаходиться **[тут](http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=EM080){:target="_blank"}**
 
-Вихідний код проекту зберігається на **[GitHub](https://github.com/LampaLab/iota_fpga)**
+Вихідний код проекту зберігається на **[GitHub](https://github.com/LampaLab/iota_fpga){:target="_blank"}**
 
 Для зручності створили образ sd карти для плати De10-nano з усім необхідним для використання акселератора. Тому якщо маєте таку плату, можете одразу потестити рішення.
 
 ### Підсумок
 
-Ось такий цікавий проект вийшов! Над проектом працювали Євген Короткий та Сергій Сачов. За результатами плануємо зробити ще кілька наукових статей. До речі, з цим проектом ми перемогли в Європейськму етапі міжнародного конкурсу **[InnovateFPGA](http://www.innovatefpga.com/)** Завоювали Бронзу, отримали приз 800$, а також налагоджувальні плати **[DE10-Lite](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021)** та **[DE10-Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046)**. Всі охочі можуть безкоштовно користуватися цими платами в нашій лабі.
+Ось такий цікавий проект вийшов! Над проектом працювали Євген Короткий та Сергій Сачов. За результатами плануємо зробити ще кілька наукових статей. До речі, з цим проектом ми перемогли в Європейськму етапі міжнародного конкурсу **[InnovateFPGA](http://www.innovatefpga.com/)** Завоювали Бронзу, отримали приз 800$, а також налагоджувальні плати **[DE10-Lite](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021){:target="_blank"}** та **[DE10-Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046){:target="_blank"}**. Всі охочі можуть безкоштовно користуватися цими платами в нашій лабі.
