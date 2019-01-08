@@ -36,14 +36,8 @@
               <li class="{% if page.url == '/3dprint.html' %}active{% endif %}"><a href="{{site.baseurl}}/3dprint.html">Інструкція з 3D друку</a></li>
             </ul>
           </li>   
-	  
-	  <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Проекти і заходи<span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              <li class="{% if page.url == '/projects.html' %}active{% endif %}"><a href="{{site.baseurl}}/projects.html">Проекти</a></li>
-              <li class="{% if page.url == '/events.html' %}active{% endif %}"><a href="{{site.baseurl}}/events.html">Заходи</a></li>
-            </ul>
-          </li>
+
+	  <li class="{% if page.url == '/projects.html' %}active{% endif %}"><a href="{{site.baseurl}}/projects.html">Проекти</a></li>
 
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Освіта<span class="caret"></span></a>
@@ -63,8 +57,14 @@
 
             </ul> <!-- dropdown-menu multi-level -->
           </li> <!-- dropdown -->
-
-          <li class="{% if page.url == '/calendar.html' %}active{% endif %}"><a href="{{site.baseurl}}/calendar.html">Календар</a></li>
+          
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Заходи<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li class="{% if page.url == '/events.html' %}active{% endif %}"><a href="{{site.baseurl}}/events.html">Проведені заходи</a></li>
+              <li class="{% if page.url == '/calendar.html' %}active{% endif %}"><a href="{{site.baseurl}}/calendar.html">Календар</a></li>
+            </ul>
+          </li>
 
           <li class="{% if page.url == '/donate.html' %}active{% endif %}"><a href="{{site.baseurl}}/donate.html">Підтримати</a></li>
 
