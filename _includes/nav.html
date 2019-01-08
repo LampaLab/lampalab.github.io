@@ -39,7 +39,24 @@
 
 	  <li class="{% if page.url == '/projects.html' %}active{% endif %}"><a href="{{site.baseurl}}/projects.html">Проекти</a></li>
 
-          <li class="{% if page.url == '/education.html' %}active{% endif %}"><a href="{{site.baseurl}}/education.html">Навчання</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Навчання<span class="caret"></span></a>
+            <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+
+            <li> <a tabindex="-1" href="{{site.baseurl}}/education.html">Навчальні матеріали</a></li> <!-- dropdown-submenu -->
+            
+            <li class="dropdown-submenu">
+                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Наші відео курси<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a tabindex="-1"><a href="https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk" target="_blank">Аналогова схемотехніка</a></li>
+                  <li><a tabindex="-1"><a href="https://www.youtube.com/playlist?list=PL4WQQHlheqfzl71QHEBzrB_dRLF1fI7wz" target="_blank">Цифрова схемотехніка</a></li>
+                  <li><a tabindex="-1"><a href="https://www.youtube.com/playlist?list=PL4WQQHlheqfyIZSzsJXqs6kBQhhsTRBC7" target="_blank">Verilog і проектування мікросхем</a></li>
+                  <li><a tabindex="-1"><a href="https://www.youtube.com/watch?v=judSW9LMxA4&list=PL4WQQHlheqfw03rsLoyDuHK2JoD5F_G0Z" target="_blank">Воркшопи з IoT на базі ESP8266</a></li>
+                </ul> <!-- dropdown-menu-->
+            </li> <!-- dropdown-submenu -->
+
+            </ul> <!-- dropdown-menu multi-level -->
+          </li> <!-- dropdown -->
 
           <li class="{% if page.url == '/calendar.html' %}active{% endif %}"><a href="{{site.baseurl}}/calendar.html">Календар</a></li>
 
