@@ -211,18 +211,6 @@ iframe {
 
 }
 
-.navbar-nav {
-    float:none;
-    margin:0 auto;
-    display: block;
-    text-align: center;
-}
-
-.navbar-nav > li {
-    display: inline-block;
-    float:none;
-}
-
 .navbar-nav > li > .dropdown-menu {
     margin-top: 5.4px;
  }
