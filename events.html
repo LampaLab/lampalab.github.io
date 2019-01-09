@@ -22,10 +22,10 @@ permalink: /events/
 
 <section id="events">
   <div class="container">
-    <div class="row">
 
       {% for post in site.posts %}
         {% if post.type == 'event' %}
+        <div class="row">
 
         <div class="col-md-6">
 
@@ -44,13 +44,13 @@ permalink: /events/
 
         </div>  <!-- col-->
 
+        </div> <!-- row -->
+
         <div class="container" id="separator"></div>
 
         {% endif %}
       {% endfor %}
 
-
-    </div> <!-- row -->
   </div> <!-- container -->
 </section> <!-- workshops -->
 
