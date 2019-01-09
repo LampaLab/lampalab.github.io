@@ -2,6 +2,7 @@
 layout: media
 image: /img/hero_slider/a_slider_3.jpg
 description: "Публікації в ЗМІ про нашу лабу"
+permalink: /media/
 ---
 
 ## Публікації в ЗМІ про нашу лабу
