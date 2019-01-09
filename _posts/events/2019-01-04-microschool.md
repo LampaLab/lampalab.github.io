@@ -1,17 +1,15 @@
 ---
-layout: project_post
-type: project
-projectimg: p3steel/p3steel.jpg
-image: /img/projects/p3steel/p3steel.jpg
-title: P3Steel
-meta: "Саморобний 3D принтер зі сталевою рамою"
-description: "Саморобний 3D принтер зі сталевою рамою"
+layout: blog_post
+type: event
+image: /img/events/microschool/micro_thumb.jpg
+title: Дитяча школа мікроелектроніки
+description: "Разом з інженерами Кремнієвої Долини організували дитячу школу мікроелектроніки, де школярі вчилися проектувати цифрові мікросхеми на FPGA"
 author: Євген Короткий
 date: 2019-01-02
-category: [diy, 3Dprint]
+category: [fpga, event]
 ---
 
-<iframe src="https://www.youtube.com/embed/76-veLcDYP4" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
+![](/img/events/microschool/micro1.jpg)
 
 Креслення 3D принтера взяли **[тут](https://reprap.org/wiki/P3Steel?fbclid=IwAR1ctosucpKfPK8j5j0Az8gixddeT0pvFf6litVDgBSrJ8mzsTVcuo2sILM){:target="_blank"}**
 
