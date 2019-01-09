@@ -9,6 +9,8 @@ redcarpet:
 
 exclude: ['README.md']
 
+permalink: /:title
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
