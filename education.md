@@ -2,6 +2,7 @@
 layout: education
 image: /img/education.jpg
 description: "Підбірка відкритих матеріалів для вивчення електроніки з нуля"
+permalink: /education/
 ---
 
 ## Матеріали для вивчення електроніки
