@@ -19,6 +19,7 @@ title: Відкрита лабораторія електроніки Лампа
 collections: 
   photos: 
     output: true
+    permalink: /:collection/:name
 
 defaults: 
   - scope: 
