@@ -11,6 +11,8 @@ category: [fpga, event]
 
 Наш активний учасник Олександр Махньов на Школі Абітурієнта КПІ розповів, як він створив власний дозиметер
 
+<br>
+
 <iframe src="https://www.youtube.com/embed/xzXTHupFn70" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
 
