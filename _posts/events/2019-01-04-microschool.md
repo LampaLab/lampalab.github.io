@@ -17,6 +17,8 @@ category: [fpga, event]
 
 Школа проходила в **[Студентський простір Belka](https://www.facebook.com/belka.space.kpi/){:target="_blank"}**, що ідеально підходить для подібних заходів. Зареєструвалося на школу близько 70-ти дітей. У перший день прийшло порядку 50-ти людей, а до кінця дісталося 30 учасників.
 
+![](/img/events/microschool/micro2.jpg)
+
 ### Програма
 
 Детальну програму школи можна переглянути **[тут](https://drive.google.com/file/d/0B9fI2BqoGDwTNXY4MlJFNjdGb00/view){:target="_blank"}**
