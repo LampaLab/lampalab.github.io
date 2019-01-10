@@ -13,7 +13,7 @@ category: [stm32, event, rtos]
 
 <br>
 
-Допомогли нашим друзям з **[Sirin Software](https://sirinsoftware.com){:target="_blank"}** організувати воркшоп по FreeRTOS на STM32. Воркшоп проводив embedded інженер Sirin Software, Дмитро Вітман.
+Допомогли нашим друзям з **[Sirin Software](https://sirinsoftware.com){:target="_blank"}** організувати воркшоп по FreeRTOS на STM32. Воркшоп проводив embedded інженер Sirin Software, Дмитро Вітман. Територіально воркшоп відбувся в **[Студентський простір Belka](https://www.facebook.com/belka.space.kpi/){:target="_blank"}**
 
 <br>
 
@@ -25,4 +25,4 @@ category: [stm32, event, rtos]
 
 <br>
 
-Вихідний код для практичних завдань знаходиться на GitHub: **[репозиторій 1](https://github.com/DimaWittmann/nucleo-F401RE){:target="_blank"}**, **[репозиторій 2](https://github.com/DimaWittmann/FreeRTOS-Sim){:target="_blank"}**
+Вихідний код для практичних завдань знаходиться на GitHub: **[раз](https://github.com/DimaWittmann/nucleo-F401RE){:target="_blank"}**, **[два](https://github.com/DimaWittmann/FreeRTOS-Sim){:target="_blank"}**
