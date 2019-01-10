@@ -49,7 +49,7 @@ category: [fpga, event]
 
 <br>
 
-Пізніше Денис описав свій проект в **[крутій статті](https://habrahabr.ru/post/316770){:target="_blank"}** на Хабрі. Вихідний код проекту можна завантажити з **[GitHub](https://github.com/Denis-Kingit/UltraSonicToMIPSfpga){:target="_blank"}**.
+Пізніше Денис описав свій проект в **[крутій статті](https://habrahabr.ru/post/316770){:target="_blank"}** на Хабрі. Вихідний код проекту можна завантажити з **[GitHub](https://github.com/Denis-Kingit/UltraSonicToMIPSfpga){:target="_blank"}**
 
 <br>
 
