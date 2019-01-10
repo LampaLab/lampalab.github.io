@@ -17,8 +17,8 @@ category: [fpga, event, diy]
 
 <br>
 
-У відео розглянуті наступні теми: криптовалютні адреси, транзакції, майнінг, proof-of-work, блок, цифровий підпис, геш функція, створення майнерів на FPGA/ASIC
+У відео розглянуті наступні теми: криптовалютні адреси, транзакції, майнінг, proof-of-work, блок, цифровий підпис, геш функція, майнінгові ферми, створення майнерів на FPGA/ASIC
 
 <br>
 
-Презентацію можна завантажити **[тут](https://docs.google.com/presentation/d/1uIgD-feQCGe8ga9vbWQRa3QsWT6FA0oL3-J1FVfansg/edit?usp=sharing){:target="_blank"}**
+Презентацію доповіді можна переглянути **[тут](https://docs.google.com/presentation/d/1uIgD-feQCGe8ga9vbWQRa3QsWT6FA0oL3-J1FVfansg/edit?usp=sharing){:target="_blank"}**
