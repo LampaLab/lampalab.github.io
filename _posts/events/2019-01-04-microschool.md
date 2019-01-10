@@ -6,7 +6,7 @@ title: Дитяча школа мікроелектроніки
 description: "Разом з інженерами Кремнієвої Долини організували дитячу школу мікроелектроніки, де школярі вчилися проектувати цифрові мікросхеми на FPGA"
 author: Євген Короткий
 date: 2019-01-04
-category: [fpga, event]
+category: [fpga, verilog, event]
 ---
 
 ![](/img/events/microschool/micro1.jpg)

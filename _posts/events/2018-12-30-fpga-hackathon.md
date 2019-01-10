@@ -6,7 +6,7 @@ title: Хакатон зі створення систем-на-кристалі
 description: "Провели хакатон зі створення систем-на-кристалі на FPGA. Необхідно було розробити периферійний модуль та інтегрувати його в MIPSfpga, а також написати драйвер для взаємодії з залізом"
 author: Євген Короткий
 date: 2018-12-30
-category: [fpga, event]
+category: [fpga, verilog, event]
 ---
 
 ![](/img/events/fpga-hackathon/fpga-hackathon1.jpg)
