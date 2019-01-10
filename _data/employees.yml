@@ -1,26 +1,26 @@
 - name: Короткий Євген
-  image: img/team/ievgen_korotkyi.jpg
+  image: /img/team/ievgen_korotkyi.jpg
   title: Засновник. Загальна координація роботи лабораторії
   fb: https://www.facebook.com/korotkiy.eugene
   twitter:
   linkedin: 
 
 - name: Гордієнко Ярослав
-  image: img/team/yaroslav_hordienko.jpg
+  image: /img/team/yaroslav_hordienko.jpg
   title: Лаборант. 3D друк, виготовлення PCB, STM32, FPGA
   fb: https://www.facebook.com/profile.php?id=100013394832750
   twitter:
   linkedin:
 
 - name: Шут Олеся
-  image: img/team/olesya_shut.jpg
+  image: /img/team/olesya_shut.jpg
   title: Лаборант. 3D друк, Arduino, PIC32, FPGA
   fb: https://www.facebook.com/profile.php?id=100017128725045
   twitter:
   linkedin:
 
 - name: Федоренко Сергій
-  image: img/team/serhii_fedorenko.jpg
+  image: /img/team/serhii_fedorenko.jpg
   title: Лаборант. 3D друк, мікрокомп'ютери, STM32, FPGA
   fb: https://www.facebook.com/profile.php?id=100006757414298
   twitter: 
