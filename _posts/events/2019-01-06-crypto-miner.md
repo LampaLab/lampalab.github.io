@@ -11,6 +11,8 @@ category: [fpga, event, diy]
 
 <iframe src="https://www.youtube.com/embed/puOivnTbFXI" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
+<br>
+
 Засновник Лампи, викладач кафедри **[Конструювання електронно-обчислювальної апаратури](http://keoa.kpi.ua){:target="_blank"}**, Короткий Євген, доступно пояснює на Школі Абітурієнта КПІ, як працюють криптовалюти на прикладі Bitcoin. 
 
 <br>
