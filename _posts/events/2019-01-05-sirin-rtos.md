@@ -19,7 +19,7 @@ category: [stm32, event, rtos]
 
 Під час воркшопу 50 відвідувачів навчилися створювати багатопоточні програми для STM32 використовуючи FreeRTOS та ініціалізувати STM32 в CubeMX. Практичні завдання виконувались в симуляторі FreeRTOS на ноутах, а також на реальному залізі (**[Nucleo F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html){:target="_blank"}**)
 
-![FreeRTOS STM32 workshop](/img/events/sirin-rtos/sirin-rtos1.jpg)
+![FreeRTOS STM32 workshop](/img/events/sirin-rtos/sirin-rtos2.jpg)
 
 Презентацію воркшопу можна переглянути **[тут](https://docs.google.com/presentation/d/1MTnwRdDqCk2FIL-QwcgU8CXhRQxo4rP3FVa1qQSz8eM/edit?usp=sharing){:target="_blank"}** 
 
