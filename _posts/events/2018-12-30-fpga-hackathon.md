@@ -9,7 +9,7 @@ date: 2018-12-30
 category: [fpga, verilog, event]
 ---
 
-![](/img/events/fpga-hackathon/fpga-hackathon1.jpg)
+![FPGA hackathon](/img/events/fpga-hackathon/fpga-hackathon1.jpg)
 
 <br>
 
@@ -23,7 +23,7 @@ category: [fpga, verilog, event]
 
 Територіально хакатон відбувся в **[Студентський простір Belka](https://www.facebook.com/belka.space.kpi/){:target="_blank"}**
 
-![](/img/events/fpga-hackathon/fpga-hackathon4.jpg)
+![FPGA hackathon](/img/events/fpga-hackathon/fpga-hackathon4.jpg)
 
 ### Спонсори
 
@@ -33,7 +33,7 @@ category: [fpga, verilog, event]
 
 Учасникам хакатону необхідно було створити апаратний модуль і програмне забезпечення (драйвер) для інтеграції периферійного пристрою в систему-на-кристалі на основі MIPSfpga. Периферійними пристроями були LCD дисплеї, джойстики, сенсори.
 
-![](/img/events/fpga-hackathon/fpga-hackathon2.jpg)
+![FPGA hackathon](/img/events/fpga-hackathon/fpga-hackathon2.jpg)
 
 ### Переможці
 
@@ -55,6 +55,6 @@ category: [fpga, verilog, event]
 
 На останок тримайте фото переможців з призами (плати DE0-CV вартістю 150$)
 
-![](/img/events/fpga-hackathon/fpga-hackathon3.jpg)
+![FPGA hackathon](/img/events/fpga-hackathon/fpga-hackathon3.jpg)
 
 
