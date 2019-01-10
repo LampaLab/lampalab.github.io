@@ -26,24 +26,18 @@ category: [asic, mips, event]
 
 #### Cпеціалізовані інтегральні схеми нанорівня
 
+**[Програма](https://docs.google.com/document/d/1JM3MesUtCmdVXJvMWNGgYU1UgOcGIWwuxxNv7Pop8xI/edit?usp=sharing){:target="_blank"}** семінару 
+
 Чарльз Данчек розказав про етапи створення сучасних мікросхем від специфікації до тестування (спираючись на матеріали свого університетського курсу та професійний досвід). 
 
-<br>
-
-Програму семінару можна переглянути **[тут](https://docs.google.com/document/d/1JM3MesUtCmdVXJvMWNGgYU1UgOcGIWwuxxNv7Pop8xI/edit?usp=sharing){:target="_blank"}**
-
-<br>
-
 #### MIPSfpga і ConnectedMCU
+
+**[Програма](https://docs.google.com/document/d/1m_n3X8qEk5vY4MXqfnPRSQCicY1r9Gw2AbYOOIkl1hE/edit?usp=sharing){:target="_blank"}** семінару
  
 Юрій Панчул розповів про: 
 1) Процесорне ядро MIPSfpga, відкрите для студентів та викладачів університетів; 
 2) Створення системи на кристалі на основі MIPSfpga, приклади реалізації такої системи на FPGA Altera та Xilinx, створення програм для неї з використанням GCC компілятору; 
 3) Використання операційної системи реального часу FreeRTOS для програмування процесорного ядра MIPS мікроконтролерів PIC32. 
-
-<br>
-
-Програму семінару можна переглянути **[тут](https://docs.google.com/document/d/1m_n3X8qEk5vY4MXqfnPRSQCicY1r9Gw2AbYOOIkl1hE/edit?usp=sharing){:target="_blank"}**
 
 ### Відео і презентації
 
