@@ -22,8 +22,6 @@ category: [asic, mips, event]
 
 ### Семінари
 
-<br>
-
 #### Cпеціалізовані інтегральні схеми нанорівня
 
 **[Програма](https://docs.google.com/document/d/1JM3MesUtCmdVXJvMWNGgYU1UgOcGIWwuxxNv7Pop8xI/edit?usp=sharing){:target="_blank"}** семінару 
@@ -33,7 +31,7 @@ category: [asic, mips, event]
 #### MIPSfpga і ConnectedMCU
 
 **[Програма](https://docs.google.com/document/d/1m_n3X8qEk5vY4MXqfnPRSQCicY1r9Gw2AbYOOIkl1hE/edit?usp=sharing){:target="_blank"}** семінару
- 
+
 Юрій Панчул розповів про: 
 1) Процесорне ядро MIPSfpga, відкрите для студентів та викладачів університетів; 
 2) Створення системи на кристалі на основі MIPSfpga, приклади реалізації такої системи на FPGA Altera та Xilinx, створення програм для неї з використанням GCC компілятору; 
