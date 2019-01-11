@@ -25,7 +25,7 @@ category: [event, raspberry]
 
 ![Raspberry Pi Bare Metal Workshop](/img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal2.jpg)
 
-Також дуже рекомендуємо прочитати статті, що надихнули Дмитра на створення воркшопу: **[раз](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1){:target="_blank"}**, **[два](http://www.valvers.com/open-software/raspberry-pi/step02-bare-metal-programming-in-c-pt2/){:target="_blank"}**, **[три](http://www.valvers.com/open-software/raspberry-pi/step03-bare-metal-programming-in-c-pt3/){:target="_blank"}**, **[чотири](http://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/){:target="_blank"}**, **[п'ять](http://www.valvers.com/open-software/raspberry-pi/step05-bare-metal-programming-in-c-pt5/){:target="_blank"}**
+Також дуже радимо прочитати статті, що надихнули Дмитра на створення воркшопу: **[раз](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1){:target="_blank"}**, **[два](http://www.valvers.com/open-software/raspberry-pi/step02-bare-metal-programming-in-c-pt2/){:target="_blank"}**, **[три](http://www.valvers.com/open-software/raspberry-pi/step03-bare-metal-programming-in-c-pt3/){:target="_blank"}**, **[чотири](http://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/){:target="_blank"}**, **[п'ять](http://www.valvers.com/open-software/raspberry-pi/step05-bare-metal-programming-in-c-pt5/){:target="_blank"}**
 
 <br>
 
@@ -33,4 +33,4 @@ category: [event, raspberry]
 
 <br>
 
-Ось **[репозиторій на GitHub](https://github.com/BrianSidebotham/arm-tutorial-rpi){:target="_blank"}** з прикладами коду до згаданого вище циклу статей. Приклади працюють для Raspberry Pi 1 (A, B, B +) і 2.
+Ось **[репозиторій на GitHub](https://github.com/BrianSidebotham/arm-tutorial-rpi){:target="_blank"}** з прикладами коду до згаданого циклу статей. Приклади працюють для Raspberry Pi 1 (A, B, B +) і 2.
