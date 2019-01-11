@@ -3,7 +3,7 @@ layout: event_post
 type: event
 image: /img/events/homemade-cpu/homemade-cpu.jpg
 title: Як створити процесор
-description: "Засновник Лампи, викладач КПІ Короткий Євген, пояснює, як створити процесор вдома"
+description: "Засновник Лампи, викладач КПІ Короткий Євген, пояснює, як створити процесор"
 author: Євген Короткий
 date: 2018-12-29
 category: [fpga, event, verilog]
