@@ -9,7 +9,7 @@ date: 2018-12-28
 category: [event, raspberry]
 ---
 
-![Raspberry Pi Bare Metal Workshop](/img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal1.jpg)
+![Raspberry Pi Bare Metal Workshop](/img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal1.png)
 
 <br>
 
