@@ -1,12 +1,12 @@
 ---
 layout: event_post
 type: event
-image: /img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal1.jpg
-title: Воркшоп з FreeRTOS на STM32
-description: "Допомогли нашим друзям з Sirin Software організувати воркшоп по FreeRTOS на STM32"
+image: /img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal1.png
+title:  Bare Metal програмування Raspberry Pi
+description: "Воркшоп по програмуванню Raspberry Pi 2 на чистому С, без Linux"
 author: Євген Короткий
 date: 2018-12-28
-category: [stm32, event, rtos]
+category: [event, raspberry]
 ---
 
 ![Raspberry Pi Bare Metal Workshop](/img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal1.jpg)
