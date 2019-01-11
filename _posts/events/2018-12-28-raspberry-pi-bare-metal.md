@@ -23,7 +23,7 @@ category: [event, raspberry]
 
 Вихідний код для практичних завдань знаходиться на **[GitHub](https://github.com/sirinsoftware/bare_metal_rpi){:target="_blank"}**
 
-![Raspberry Pi Bare Metal Workshop](/img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal1.jpg)
+![Raspberry Pi Bare Metal Workshop](/img/events/raspberry-pi-bare-metal/raspberry-pi-bare-metal2.jpg)
 
 Також дуже рекомендуємо прочитати статті, які надихнули Дмитра на створення воркшопу: **[раз](http://www.valvers.com/open-software/raspberry-pi/step01-bare-metal-programming-in-cpt1){:target="_blank"}**, **[два](http://www.valvers.com/open-software/raspberry-pi/step02-bare-metal-programming-in-c-pt2/){:target="_blank"}**, **[три](http://www.valvers.com/open-software/raspberry-pi/step03-bare-metal-programming-in-c-pt3/){:target="_blank"}**, **[чотири](http://www.valvers.com/open-software/raspberry-pi/step04-bare-metal-programming-in-c-pt4/){:target="_blank"}**, **[п'ять](http://www.valvers.com/open-software/raspberry-pi/step05-bare-metal-programming-in-c-pt5/){:target="_blank"}**
 
