@@ -12,13 +12,11 @@ date: 2019-03-02
 category: [diy, robot]
 ---
 
-### Викладаємо підбірку open source роботів 
-
-<br>Ідеальні кандидати для складання в школах та університетах!<br>
+Викладаємо підбірку open source роботі. Ідеальні кандидати для складання в школах та університетах! <br>
 
 #### 1. Робот Poppy
 
-<br> <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe><br>
+<iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
 Вихідний код: **[GitHub репозиторій](https://github.com/poppy-project/poppy-humanoid){:target="_blank"}**. **[Відео](https://www.youtube.com/watch?v=RqyVt9m4pCg){:target="_blank"}** процесу складання. <br>
 
