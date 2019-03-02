@@ -12,9 +12,9 @@ date: 2019-03-02
 category: [diy, robot]
 ---
 
-Викладаємо підбірку open source роботі. Ідеальні кандидати для складання в школах та університетах! <br>
+Викладаємо підбірку open source роботів. Ідеальні кандидати для складання у школах та університетах! <br>
 
-#### 1. Робот Poppy
+### 1. Робот Poppy
 
 <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
@@ -22,7 +22,7 @@ category: [diy, robot]
 
 Ціна комплектуючих - кілька тисяч доларів за рахунок використання великої кількості коштовних двигунів від Dynamixel. Але конструкція повністю відкрита і ми впевнені, що за бажанням можна її значно здешевити шляхом використання бюджетних комплектуючих. <br>
 
-#### 2. Рука-маніпулятор BCN3D-Moveo
+### 2. Рука-маніпулятор BCN3D-Moveo
 
 <iframe src="https://www.youtube.com/embed/9RbIFXAsA4c" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
@@ -32,7 +32,7 @@ category: [diy, robot]
 
 Вартість комплектуючих - до 500$
 
-#### Всюдехід-ровер від NASA
+### Всюдехід-ровер від NASA
 
 <iframe src="https://www.youtube.com/embed/RmY0xhPJdXA" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
@@ -42,7 +42,7 @@ category: [diy, robot]
 
 Вартість комлектуючих до 2000$
 
-#### Нескладні моделі дроїдів з Зоряних Війн:
+### Нескладні моделі дроїдів з Зоряних Війн:
 
 - **[BB8 Droid](https://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid){:target="_blank"}**
 
@@ -52,9 +52,10 @@ category: [diy, robot]
 
 - Ще один **[BB8 Droid](http://www.xrobots.co.uk/category/bb8/){:target="_blank"}** 
 
-#### Робот-собака openDog. Майже як в Boston Dynamics
+### Робот-собака openDog. Майже як в Boston Dynamics
 
 <iframe src="https://www.youtube.com/embed/4MGZvcd0xxc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
 Вихідний код: **[GitHub репозиторій](https://github.com/XRobots/openDog){:target="_blank"}**
+
 **[Підбірка відео](https://www.youtube.com/watch?v=0BoPoWF_FwY&list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf){:target="_blank"}** 
