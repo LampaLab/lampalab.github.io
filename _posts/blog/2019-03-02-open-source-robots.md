@@ -20,7 +20,7 @@ category: [diy, robot]
 
 Вихідний код: **[GitHub репозиторій](https://github.com/poppy-project/poppy-humanoid){:target="_blank"}**
 
-**[Відео](https://www.youtube.com/watch?v=RqyVt9m4pCg){:target="_blank"}** процесу складання. <br><br>
+**[Відео](https://www.youtube.com/watch?v=RqyVt9m4pCg){:target="_blank"}** процесу складання <br>
 
 Ціна комплектуючих - кілька тисяч доларів за рахунок використання великої кількості коштовних двигунів від Dynamixel. Але конструкція повністю відкрита і ми впевнені, що за бажанням можна її значно здешевити шляхом використання бюджетних комплектуючих. <br>
 
