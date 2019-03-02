@@ -44,13 +44,13 @@ category: [diy, robot]
 
 ### Нескладні моделі дроїдів з Зоряних Війн:
 
-- **[BB8 Droid](https://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid){:target="_blank"}**
+1) Робот **[BB8 Droid](https://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid){:target="_blank"}**
 
-- **[R2D2 Droid](https://www.instructables.com/id/HI-R2D2-Make-a-3D-Print-Talking-R2D2-Robot){:target="_blank"}**
+2) РОбот **[R2D2 Droid](https://www.instructables.com/id/HI-R2D2-Make-a-3D-Print-Talking-R2D2-Robot){:target="_blank"}**
 
-- **[R6 Droid](http://www.xrobots.co.uk/category/r6-droid/){:target="_blank"}**
+3) Робот **[R6 Droid](http://www.xrobots.co.uk/category/r6-droid/){:target="_blank"}**
 
-- Ще один **[BB8 Droid](http://www.xrobots.co.uk/category/bb8/){:target="_blank"}** 
+4) Ще один **[BB8 Droid](http://www.xrobots.co.uk/category/bb8/){:target="_blank"}** 
 
 ### Робот-собака openDog
 
