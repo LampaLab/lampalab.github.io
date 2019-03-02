@@ -14,7 +14,7 @@ category: [diy, robot]
 
 Викладаємо підбірку open source роботів. Ідеальні кандидати для складання у школах та університетах! <br>
 
-### 1. Робот Poppy
+### Робот Poppy
 
 <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
@@ -22,13 +22,13 @@ category: [diy, robot]
 
 Ціна комплектуючих - кілька тисяч доларів за рахунок використання великої кількості коштовних двигунів від Dynamixel. Але конструкція повністю відкрита і ми впевнені, що за бажанням можна її значно здешевити шляхом використання бюджетних комплектуючих. <br>
 
-### 2. Рука-маніпулятор BCN3D-Moveo
+### Рука-маніпулятор BCN3D-Moveo
 
 <iframe src="https://www.youtube.com/embed/9RbIFXAsA4c" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
 Вихідний код: **[GitHub репозиторій](https://github.com/BCN3D/BCN3D-Moveo){:target="_blank"}** 
 
-Ось ще гарна  **[стаття](https://hackaday.io/project/3800-3d-printable-robot-arm){:target="_blank"}** на Hackaday
+Гарна  **[стаття](https://hackaday.io/project/3800-3d-printable-robot-arm){:target="_blank"}** на Hackaday
 
 Вартість комплектуючих - до 500$
 
@@ -52,7 +52,9 @@ category: [diy, robot]
 
 - Ще один **[BB8 Droid](http://www.xrobots.co.uk/category/bb8/){:target="_blank"}** 
 
-### Робот-собака openDog. Майже як в Boston Dynamics
+### Робот-собака openDog
+
+Майже як в Boston Dynamics
 
 <iframe src="https://www.youtube.com/embed/4MGZvcd0xxc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
