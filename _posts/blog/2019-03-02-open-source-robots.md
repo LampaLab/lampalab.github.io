@@ -16,6 +16,7 @@ category: [diy, robot]
 
 ### Робот Poppy
 
+<br>
 
 <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
@@ -31,6 +32,8 @@ category: [diy, robot]
 
 <iframe src="https://www.youtube.com/embed/9RbIFXAsA4c" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
+<br>
+
 Вихідний код: **[GitHub репозиторій](https://github.com/BCN3D/BCN3D-Moveo){:target="_blank"}** <br><br>
 
 Гарна  **[стаття](https://hackaday.io/project/3800-3d-printable-robot-arm){:target="_blank"}** на Hackaday <br><br>
@@ -40,6 +43,8 @@ category: [diy, robot]
 ### Всюдехід-ровер від NASA
 
 <iframe src="https://www.youtube.com/embed/RmY0xhPJdXA" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
+
+<br>
 
 Вихідний код: **[GitHub репозиторій](https://github.com/nasa-jpl/open-source-rover){:target="_blank"}** <br><br> 
 
@@ -61,9 +66,11 @@ category: [diy, robot]
 
 ### Робот-собака openDog
 
-Майже як в Boston Dynamics <br><br>
+Майже як в Boston Dynamics <br>
 
 <iframe src="https://www.youtube.com/embed/4MGZvcd0xxc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
+
+<br>
 
 Вихідний код: **[GitHub репозиторій](https://github.com/XRobots/openDog){:target="_blank"}** <br><br>
 
