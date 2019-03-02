@@ -66,6 +66,8 @@ category: [diy, robot]
 
 Майже як в Boston Dynamics 
 
+<br>
+
 <iframe src="https://www.youtube.com/embed/4MGZvcd0xxc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
 <br>
