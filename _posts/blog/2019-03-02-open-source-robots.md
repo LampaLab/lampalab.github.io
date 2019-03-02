@@ -16,8 +16,6 @@ category: [diy, robot]
 
 ### Робот Poppy
 
-<br>
-
 <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
 <br>
@@ -41,8 +39,6 @@ category: [diy, robot]
 Вартість комплектуючих - до 500$
 
 ### Всюдехід-ровер від NASA
-
-<br>
 
 <iframe src="https://www.youtube.com/embed/RmY0xhPJdXA" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
@@ -69,8 +65,6 @@ category: [diy, robot]
 ### Робот-собака openDog
 
 Майже як в Boston Dynamics 
-
-<br>
 
 <iframe src="https://www.youtube.com/embed/4MGZvcd0xxc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
