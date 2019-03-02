@@ -19,6 +19,7 @@ category: [diy, robot]
 
 <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
+<br>
 
 Вихідний код: **[GitHub репозиторій](https://github.com/poppy-project/poppy-humanoid){:target="_blank"}** <br><br>
 
