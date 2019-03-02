@@ -18,7 +18,9 @@ category: [diy, robot]
 
 <iframe src="https://www.youtube.com/embed/P15V3UwmXnc" width="700" height="480" frameborder="0" allowfullscreen=""> </iframe>
 
-Вихідний код: **[GitHub репозиторій](https://github.com/poppy-project/poppy-humanoid){:target="_blank"}**. **[Відео](https://www.youtube.com/watch?v=RqyVt9m4pCg){:target="_blank"}** процесу складання. <br>
+Вихідний код: **[GitHub репозиторій](https://github.com/poppy-project/poppy-humanoid){:target="_blank"}**
+
+**[Відео](https://www.youtube.com/watch?v=RqyVt9m4pCg){:target="_blank"}** процесу складання. <br><br>
 
 Ціна комплектуючих - кілька тисяч доларів за рахунок використання великої кількості коштовних двигунів від Dynamixel. Але конструкція повністю відкрита і ми впевнені, що за бажанням можна її значно здешевити шляхом використання бюджетних комплектуючих. <br>
 
@@ -44,13 +46,13 @@ category: [diy, robot]
 
 ### Нескладні моделі дроїдів з Зоряних Війн:
 
-1) Робот **[BB8 Droid](https://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid){:target="_blank"}**
+Робот **[BB8 Droid](https://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid){:target="_blank"}**
 
-2) РОбот **[R2D2 Droid](https://www.instructables.com/id/HI-R2D2-Make-a-3D-Print-Talking-R2D2-Robot){:target="_blank"}**
+Робот **[R2D2 Droid](https://www.instructables.com/id/HI-R2D2-Make-a-3D-Print-Talking-R2D2-Robot){:target="_blank"}**
 
-3) Робот **[R6 Droid](http://www.xrobots.co.uk/category/r6-droid/){:target="_blank"}**
+Робот **[R6 Droid](http://www.xrobots.co.uk/category/r6-droid/){:target="_blank"}**
 
-4) Ще один **[BB8 Droid](http://www.xrobots.co.uk/category/bb8/){:target="_blank"}** 
+Ще один **[BB8 Droid](http://www.xrobots.co.uk/category/bb8/){:target="_blank"}** 
 
 ### Робот-собака openDog
 
