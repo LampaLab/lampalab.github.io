@@ -7,23 +7,21 @@
 
 - name: Гордієнко Ярослав
   image: /img/team/yaroslav_hordienko.jpg
-  title: Лаборант (чт,пт). 3D друк, виготовлення PCB, STM32, FPGA
+  title: Лаборант (ср, чт). 3D друк, виготовлення PCB, STM32, FPGA
   fb: https://www.facebook.com/profile.php?id=100013394832750
-  twitter:
-  linkedin:
-
-- name: Шут Олеся
-  image: /img/team/olesya_shut.jpg
-  title: Лаборант (пн, вт). 3D друк, Arduino, PIC32, FPGA
-  fb: https://www.facebook.com/profile.php?id=100017128725045
   twitter:
   linkedin:
 
 - name: Білий Віталій
   image: /img/team/vitaliy_biliy.jpg
-  title: Лаборант (ср, сб). 3D друк, силова електроніка, AVR, STM32
+  title: Лаборант (пн, сб). 3D друк, силова електроніка, AVR, STM32
   fb: https://www.facebook.com/profile.php?id=100023154222904
   twitter: 
   linkedin:
 
-
+- name: Ткачук Юра
+  image: /img/team/yurii_tkachuk.jpg
+  title: Лаборант (вт, пт). 3D друк, Arduino
+  fb: https://www.facebook.com/ua.tkachuk
+  twitter:
+  linkedin:
