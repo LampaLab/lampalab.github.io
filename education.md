@@ -17,7 +17,7 @@ permalink: /education/
 
 Для тих, хто має намір почати вивчати електроніку кращим вибором буде Arduino, через простоту використання і велику кількість практичних прикладів.
 
-1) **[Курс на Амперці](https://www.youtube.com/playlist?list=PLfDmj22jP9S759DT250VVzfZs_4VnJqLa){:target="_blank"}** з нуля навчить вас користуватися платформою Arduino, підключати і використовувати кнопки, світлодіоди, сенсори, мотори, бездротовий зв'язок. Ці відео є перекладом на російську мову всесвітньо відомих лекцій Джеремі Блюма. Для перевірки перших схем рекомендуємо безкоштовні симулятори (**[симулятор1](https://www.tinkercad.com/circuits){:target="_blank"}**, **[симулятор2](https://www.circuito.io){:target="_blank"}**). Коли пристрої почнуть правильно працювати в симуляторі, можна переходити на реальні схеми.
+1) **[Курс на Амперці](https://www.youtube.com/playlist?list=PLfDmj22jP9S759DT250VVzfZs_4VnJqLa){:target="_blank"}** з нуля навчить вас користуватися платформою Arduino, підключати і використовувати кнопки, світлодіоди, сенсори, мотори, бездротовий зв'язок. Ці відео є перекладом на російську мову всесвітньо відомих лекцій Джеремі Блюма. Для перевірки перших схем рекомендуємо безкоштовні симулятори (**[симулятор1](https://www.tinkercad.com/learn/circuits){:target="_blank"}**, **[симулятор2](https://www.circuito.io){:target="_blank"}**). Коли пристрої почнуть правильно працювати в симуляторі, можна переходити на реальні схеми.
 
 2) Ще один дуже хороший варіант для вивчення Arduino і електроніки з нуля — це **[курс від МФТІ на Coursera](https://www.coursera.org/learn/roboty-arduino){:target="_blank"}**, де пояснюється, як працювати з Arduino і будувати на її основі роботів з керуванням через Інтернет, робити різну автоматизацію та користуватися 3D принтером.
 
@@ -31,7 +31,7 @@ permalink: /education/
 
 ### Аналогова схемотехніка 
 
-7) Arduino — всього лише ази електроніки. Щоб стати професіоналом вам знадобляться хороші знання аналогової схемотехніки. В їх отриманні вам допоможе кращий в світі онлайн курс від MIT — Circuits and Electronics: **[Частина 1](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x-0){:target="_blank"}**, **[частина 2](https://www.edx.org/course/circuits-electronics-2-amplification-mitx-6-002-2x-0){:target="_blank"}**, **[частина 3](https://www.edx.org/course/circuits-electronics-3-applications-mitx-6-002-3x-0){:target="_blank"}**.
+7) Arduino — всього лише ази електроніки. Щоб стати професіоналом вам знадобляться хороші знання аналогової схемотехніки. В їх отриманні вам допоможе кращий в світі онлайн курс від MIT — Circuits and Electronics: **[Частина 1](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2){:target="_blank"}**, **[частина 2](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2){:target="_blank"}**, **[частина 3](https://www.edx.org/course/circuits-and-electronics-3-applications-2){:target="_blank"}**.
 
 8) Для тих, хто не дуже добре знає англійську, є **[хороший онлайн курс з електроніки](https://www.youtube.com/playlist?list=PL4WQQHlheqfxlBAVy_BCNDcU_HoHczyjk){:target="_blank"}** українською мовою.
 
@@ -47,13 +47,13 @@ permalink: /education/
 
 14) **[Круті лабораторні роботи](https://wiki.analog.com/university/courses/electronics/labs){:target="_blank"}** з аналогової електроніки від Analog Devices. Дуже рекомендуємо. Нічого кращого поки не зустрічали. У лабах розглянуті безліч цікавих схем: підсилювачі, джерела струму і напруги, генератори, аналогові ключі, ФАПЧ, DC-DC перетворювачі і багато чого ще. Чітко прописані завдання та контрольні запитання. Схеми прості, наочні і робочі. По кожній схемі є готова модель для дослідження у відкритій версії комерційного SPICE симулятора SIMetrix. Лабораторні роботи заточені під вимірювальні комплекси Analog Discovery 2 (які є у нас в лабі), але можуть бути виконані на будь-якому іншому обладнанні. Для тих, хто бажає вивчати аналогову електроніку — матеріал першочергової важливості. Також матеріал можна брати за основу університетських лаб зі схемотехніки.
 
-15) **[Відео лабораторних робіт](https://www.youtube.com/playlist?list=PL4WQQHlheqfxdmMMpE_p_tidzfa0Mgf0U){:target="_blank"}** з аналогової схемотехніки на крутих платах ASLK-PRO, які є у нас в лабі.
+15) **[Лабораторні роботи](https://download.mikroe.com/documents/specials/educational/aslk-pro/aslk-pro-manual-v103.pdf){:target="_blank"}** з аналогової схемотехніки на крутих платах ASLK-PRO, які є у нас в лабі.
 
-16) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1914444195481126){:target="_blank"}** зі створення аналого-цифрових схем на базі мікросхем програмованої логіки від Silego.
+16) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1914444195481126){:target="_blank"}** зі створення аналого-цифрових схем на базі мікросхем програмованої логіки від Dialog Semiconductor (стара назва Silego).
 
 17) Ютуб канал з докладними уроками по створенню і моделювання аналогових мікросхем в Cadence Virtuoso. У цій програмі проектують аналогову частину багатьох сучасних чіпів (підсилювачі і перетворювачі сигналів, компоненти сенсорів, силові ланцюги, і т.д.). **[Плейліст](https://www.youtube.com/playlist?list=PLK2eyR1C9gjr7j-YoL_-JwJmjU6lNZGTO){:target="_blank"}** з основами роботи в Virtuoso. **[Плейлісти](https://www.youtube.com/channel/UCEXcqylc45jam5xa6vvEG7A/playlists){:target="_blank"}** з більш серйозними темами (проектування диференційних і операційних підсилювачів, bandgap джерела опорної напруги і т.д.). Ліцензія на Cadence Virtuoso коштує величезних грошей, але для використання в освітніх цілях студенти часто **[скачують програму з рутракера](https://rutracker.org/forum/viewtopic.php?t=4560766){:target="_blank"}**.
 
-18) **[Крутий курс](https://www.youtube.com/playlist?list=PLZuGFJzpFksCYXw6-fwK7PDaX1W836X7L){:target="_blank"}** з GNU Electric, що є однією з небагатьох відкритих програм для розробки чіпів.
+18) **[Курс](https://www.youtube.com/playlist?list=PLZuGFJzpFksCYXw6-fwK7PDaX1W836X7L){:target="_blank"}** з GNU Electric, що є однією з небагатьох відкритих програм для розробки чіпів.
 
 19) **[Два навчальних відео](https://www.youtube.com/watch?v=wNHsKDn6Y3A&list=PLgUwXvgNkHQLO3A8j1NC338lka7UzdWBM){:target="_blank"}** про те, як користуватися нескладним симулятором аналогових схем LTSpice. А ось **[великий англомовний плейліст](https://www.youtube.com/watch?v=JWm8z5fyhP8&list=PL4vooS_8RnzE4EoE27QssuxsccFmspbRP){:target="_blank"}** на ютубі на цю ж тему.
 
@@ -83,11 +83,11 @@ permalink: /education/
 
 29) А ось **[ще один крутий курс](https://www.edx.org/course/real-time-bluetooth-networks-shape-the-world){:target="_blank"}** від тих же викладачів, але вже по бездротових технологіях та операційних системах реального часу. "Real-Time Bluetooth Networks - Shape the World".
 
-30) **[Відео лекції](https://www.youtube.com/watch?v=LrXXpQr1itY&list=PLX6sqqUB8iOjsMfGEDcsPSuYLEFCh50Hr){:target="_blank"}** з конфігурованих систем-на-кристалі PSoC від Cypress. PSoC це аналого-цифрові мікросхеми програмованої логіки, що містять ARM процесср, а також операційні підсилювачі, аналогові компаратори, АЦП і ЦАП, які можна з'єднувати довільним чином всередині чіпа. Деякі моделі містять вбудований BLE. **[Детальніше тут](https://dou.ua/forums/topic/17973/){:target="_blank"}**. Рекомендуємо **[сайт](http://embedded.co.ua){:target="_blank"}** з навчальними матеріалами по PSOC українською мовою і **[десятки](https://www.element14.com/community/thread/23736/l/100-projects-in-100-days){:target="_blank"}** **[прикладів](https://iotexpert.com){:target="_blank"}** проектів.
+30) **[Відео лекції](https://www.youtube.com/watch?v=LrXXpQr1itY&list=PLX6sqqUB8iOjsMfGEDcsPSuYLEFCh50Hr){:target="_blank"}** з конфігурованих систем-на-кристалі PSoC від Cypress. PSoC це аналого-цифрові мікросхеми програмованої логіки, що містять ARM процесср, а також операційні підсилювачі, аналогові компаратори, АЦП і ЦАП, які можна з'єднувати довільним чином всередині чіпа. Деякі моделі містять вбудований BLE. **[Детальніше тут](https://dou.ua/forums/topic/17973/){:target="_blank"}**. Можна глянути **[десятки](https://www.element14.com/community/thread/23736/l/100-projects-in-100-days){:target="_blank"}** **[прикладів](https://iotexpert.com){:target="_blank"}** проектів.
 
 31) ConnectedMCU — чудовий курс по мікроконтролерам PIC32 на базі процесорного ядра MIPS і операційній системі реального часу FreeRTOS. Цей курс, що включає в себе і лаби, розробив професор Олександр Дін з університету штату Північна Кароліна, США. Загальний опис можна читнути **[тут](https://habr.com/post/282001/){:target="_blank"}**. Сам курс можна безкоштовно **[завантажити з сайту MIPS](https://www.mips.com/downloads/connected-microcontroller-lab-v1.6/){:target="_blank"}**, попередньо зареєструвавшись в університетській програмі компаніі. По матеріалами курсу є кілька **[відосіков](https://www.youtube.com/playlist?list=PLSTiCUiN_BoIzlrRkZjBMUVF-SIoaYbLl){:target="_blank"}**.
 
-32) А ось **[цикл воркшопів](https://www.facebook.com/lampa.kpi/posts/1708350822757132){:target="_blank"}** нашої лаби по вступу до Інтернету Речей. Дуже багато корисної інформації з практичними прикладами. За посиланням детально все розписано.
+32) А ось **[цикл воркшопів](https://www.facebook.com/lampa.kpi/posts/1708350822757132){:target="_blank"}** з старого приміщення нашої лаби по вступу до Інтернету Речей. Дуже багато корисної інформації з практичними прикладами. За посиланням детально все розписано.
 
 33) **[Підбірка матеріалів](https://www.facebook.com/lampa.kpi/posts/1881919375400275){:target="_blank"}** по вивченню плати BBC Microbit. Плата дуже крута. Її вартість всього 15$. При цьому на платі є ARM Cortex-M0, BLE, акселерометр, магнітометр, екранчик з 25 світлодіодів і дві кнопки.
 
@@ -153,7 +153,7 @@ permalink: /education/
 
 ### Проектування друкованих плат
 
-58) Кожен поважаючий себе електронщик повинен вміти розробляти друковані плати. Ось **[чудовий курс](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx){:target="_blank"}** по Altium Designer.
+58) Кожен поважаючий себе електронщик повинен вміти розробляти друковані плати. Ось **[непоганий курс](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx){:target="_blank"}** по Altium Designer.
 
 59) Цикл гарних статей по Eagle CAD: **[Стаття 1](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html){:target="_blank"}**, **[Стаття 2](http://easyelectronics.ru/rabota-v-eagle-cad-chast-2.html){:target="_blank"}**, **[Стаття 3](http://easyelectronics.ru/rabota-v-eagle-cad-chast-3-avtomaticheskaya-trassirovka-plat.html){:target="_blank"}**, **[Стаття 4](http://easyelectronics.ru/rabota-v-eagle-cad-chast-4-podgotovka-k-proizvodstvu.html){:target="_blank"}**.
 
