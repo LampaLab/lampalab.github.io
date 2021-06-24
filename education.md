@@ -105,7 +105,7 @@ permalink: /education/
 
 39) **[Багато навчальних відео](https://www.youtube.com/watch?v=2aHb3j8EgmM&list=PLQo8k6rxhZFYgd5JyYTbfQ3AEkv7lCiye){:target="_blank"}** по користуванню вимірювальними приладами від Rohde & Schwarz
 
-40) Шикарна підбірка вебінарів від Rohde & Schwarz по налагодженню швидкісних інтерфейсів: **[Один](https://www.youtube.com/watch?v=AXZzQlYSW7U){:target="_blank"}**, **[Два](youtube.com/watch?v=muP81uUXyNs){:target="_blank"}**, **[Три](https://www.youtube.com/watch?v=tTkc3f00xZE){:target="_blank"}**
+40) Шикарна підбірка вебінарів від Rohde & Schwarz по налагодженню швидкісних інтерфейсів: **[Один](https://www.youtube.com/watch?v=AXZzQlYSW7U){:target="_blank"}**, **[Два](https://www.youtube.com/watch?v=muP81uUXyNs){:target="_blank"}**, **[Три](https://www.youtube.com/watch?v=tTkc3f00xZE){:target="_blank"}**
 
 41) Інформація по тестуванню друкованих плат через JTAG: **[Один](https://www.xjtag.com/?videos=jtag-boundary-scan-xjtag/){:target="_blank"}**, **[Два](https://www.youtube.com/watch?v=D1VV4BvPBiI){:target="_blank"}**
 
