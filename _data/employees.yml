@@ -5,23 +5,23 @@
   twitter:
   linkedin: 
 
-- name: Гордієнко Ярослав
-  image: /img/team/yaroslav_hordienko.jpg
-  title: Лаборант (ср, чт). 3D друк, виготовлення PCB, STM32, FPGA
-  fb: https://www.facebook.com/profile.php?id=100013394832750
+- name: Романенко Антон
+  image: /img/team/anton_romanenko.jpg
+  title: Лаборант (пн, вт). AVR, виготовлення PCB, 3D друк, основи FPGA
+  fb: https://www.facebook.com/profile.php?id=100041039962261
+  twitter: 
+  linkedin:
+  
+- name: Загреба Арсеній
+  image: /img/team/arseniy_zagreba.jpg
+  title: Лаборант (ср, чт). 3D друк, виготовлення PCB, AVR, ESP8266, основи FPGA та STM32
+  fb: https://www.facebook.com/people/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9-%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D0%B0/100007253080289/
   twitter:
   linkedin:
 
-- name: Білий Віталій
-  image: /img/team/vitaliy_biliy.jpg
-  title: Лаборант (пн, сб). 3D друк, силова електроніка, AVR, STM32
-  fb: https://www.facebook.com/profile.php?id=100023154222904
-  twitter: 
-  linkedin:
-
-- name: Ткачук Юрій
-  image: /img/team/yurii_tkachuk.jpg
-  title: Лаборант (вт, пт). 3D друк, Arduino
-  fb: https://www.facebook.com/ua.tkachuk
+- name: Широков Владислав
+  image: /img/team/vlad_shyrokov.jpg
+  title: Лаборант (пт, сб). 3D друк та 3D моделювання (Fusion360), основи FPGA
+  fb: https://www.facebook.com/profile.php?id=100041054424362
   twitter:
   linkedin:
