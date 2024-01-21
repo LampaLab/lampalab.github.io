@@ -5,23 +5,23 @@
   twitter:
   linkedin: 
 
-- name: Романенко Антон
-  image: /img/team/romanenko_anton.jpg
-  title: Лаборант (пн, вт). AVR, виготовлення PCB, 3D друк, основи FPGA
-  fb: https://www.facebook.com/profile.php?id=100041039962261
+- name: Дем'янчук Тарас
+  image: /img/team/taras_demianchuk.jpg
+  title: Керівник лабораторії. Основи SDR та DSP, FPGA, 3D друк
+  fb: https://www.facebook.com/TarasDemianchuk23/
   twitter: 
   linkedin:
   
-- name: Загреба Арсеній
-  image: /img/team/arseniy_zagreba.jpg
-  title: Лаборант (ср, чт). 3D друк, виготовлення PCB, AVR, ESP8266, основи FPGA та STM32
-  fb: https://www.facebook.com/people/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9-%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D0%B0/100007253080289/
+- name: Лесик Валентин
+  image: /img/team/valentyn_lesik.jpg
+  title: Лаборант. 3д друк, розробка АСК ТП, CODESYS, Tensorflow
+  fb: https://www.facebook.com/profile.php?id=61555763728030
   twitter:
   linkedin:
 
-- name: Широков Владислав
-  image: /img/team/vlad_shyrokov.jpg
-  title: Лаборант (пт, сб). 3D друк та 3D моделювання (Fusion360), основи FPGA
-  fb: https://www.facebook.com/profile.php?id=100041054424362
+- name: Мочук Павло
+  image: /img/team/pavlo_mochuk.jpg
+  title: Лаборант. Аналогова та цифрова схемотехніка, Python, Verilog, Virtuoso Cadence
+  fb: https://www.facebook.com/profile.php?id=100005051416229
   twitter:
   linkedin:
