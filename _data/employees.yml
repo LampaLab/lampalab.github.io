@@ -7,21 +7,21 @@
 
 - name: Дем'янчук Тарас
   image: /img/team/taras_demianchuk.jpg
-  title: Керівник лабораторії. Основи SDR та DSP, FPGA, 3D друк
+  title: Керівник лабораторії (пн, вт). Основи SDR та DSP, FPGA, 3D друк
   fb: https://www.facebook.com/TarasDemianchuk23/
   twitter: 
   linkedin:
   
 - name: Лесик Валентин
   image: /img/team/valentyn_lesik.jpg
-  title: Лаборант. 3д друк, розробка АСК ТП, CODESYS, Tensorflow
+  title: Лаборант (пт, сб). 3д друк, розробка АСК ТП, CODESYS, Tensorflow
   fb: https://www.facebook.com/profile.php?id=61555763728030
   twitter:
   linkedin:
 
 - name: Мочук Павло
   image: /img/team/pavlo_mochuk.jpg
-  title: Лаборант. Аналогова та цифрова схемотехніка, Python, Verilog, Virtuoso Cadence
+  title: Лаборант (ср, чт). Аналогова та цифрова схемотехніка, Python, Verilog, Virtuoso Cadence
   fb: https://www.facebook.com/profile.php?id=100005051416229
   twitter:
   linkedin:
